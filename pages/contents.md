@@ -27,10 +27,11 @@
 			- 毛中特
 	- 视频制作
 		- TODO [[里亚-圣诞节视频]]
+		  DEADLINE: <2021-11-15 Mon .+1d>
 		- TODO [[千岛短视频]]
+		  DEADLINE: <2021-11-15 Mon .+1d>
 		- TODO [[凌子视频]]
-		-
-		-
+		  DEADLINE: <2021-11-15 Mon .+1d>
 - 日常
   collapsed:: true
 	- 每日
