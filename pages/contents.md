@@ -5,6 +5,7 @@
   collapsed:: true
 	- {{embed [[工作台]] }}
 - 计划任务清单
+  collapsed:: true
 	- 考研
 	  collapsed:: true
 		- 政治
@@ -27,16 +28,8 @@
 		- 政治
 			- [[马原]]
 			- 毛中特
-	- 视频制作
-		- TODO [[里亚-圣诞节视频]]#视频制作
-		  DEADLINE: <2021-11-19 Fri>
-		- TODO [[千岛短视频]]#视频制作
-		  DEADLINE: <2021-11-21 Sun>
-		- TODO [[凌子视频]]#视频制作
-		  collapsed:: true
-		  DEADLINE: <2021-11-20 Sat .+1d>
-		- TODO yaze视频#视频制作
-		  collapsed:: true
-		  DEADLINE: <2021-11-19 Fri 20:36 .+1d>
+	- [[视频制作]]
+	  collapsed:: true
+		- {{embed [[视频制作]]}}
 - [[日常&习惯]]
 - 归档
