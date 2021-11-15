@@ -1,7 +1,9 @@
 - [[学习流程跟踪面板]]
   collapsed:: true
 	- {{embed [[学习流程跟踪面板]]}}
--
+- [[工作台]] 
+  collapsed:: true
+	- {{embed [[工作台]] }}
 - 计划任务清单
 	- 考研
 	  collapsed:: true
@@ -26,13 +28,15 @@
 			- [[马原]]
 			- 毛中特
 	- 视频制作
-		- TODO [[里亚-圣诞节视频]]
-		  DEADLINE: <2021-11-15 Mon .+1d>
-		- TODO [[千岛短视频]]
-		  DEADLINE: <2021-11-15 Mon .+1d>
-		- TODO [[凌子视频]]
-		  DEADLINE: <2021-11-15 Mon .+1d>
-- 日常
-  collapsed:: true
-	- 每日
+		- TODO [[里亚-圣诞节视频]]#视频制作
+		  DEADLINE: <2021-11-19 Fri>
+		- TODO [[千岛短视频]]#视频制作
+		  DEADLINE: <2021-11-21 Sun>
+		- TODO [[凌子视频]]#视频制作
+		  collapsed:: true
+		  DEADLINE: <2021-11-20 Sat .+1d>
+		- TODO yaze视频#视频制作
+		  collapsed:: true
+		  DEADLINE: <2021-11-19 Fri 20:36 .+1d>
+- [[日常&习惯]]
 - 归档
