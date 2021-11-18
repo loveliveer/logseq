@@ -1,0 +1,16 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "journals/2021_11_18.md",
+      "date": "Thu Nov 18 2021"
+    }
+  ],
+  "completePastItems": false,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 4
+}

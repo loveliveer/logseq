@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "57fdc674a71cdcff",
+    "type": "split",
+    "children": [
+      {
+        "id": "8debb8704cf79c1a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/2021_11_18.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "afc95e59ba97ce1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/2021_11_18.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebeb5603a8817e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "80bc634d7b051cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf3f13747206ce6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c778ff59ae246f7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1170ceebdcda7919",
+    "type": "split",
+    "children": [
+      {
+        "id": "022d36e383292d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6583c91411714814",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2021_11_18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "464aa5e70c0180b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46314935788b18a9",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8debb8704cf79c1a",
+  "lastOpenFiles": [
+    "journals/2021_11_18.md",
+    "journals/11月 4日, 2021.md",
+    "journals/2021_11_15.md"
+  ]
+}
