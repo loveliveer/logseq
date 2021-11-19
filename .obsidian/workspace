@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2021_11_18.md",
+            "file": "journals/2021_11_19.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "afc95e59ba97ce1b",
+        "id": "6a22db94dbaa5223",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2021_11_18.md",
+            "file": "journals/2021_11_19.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2021_11_18.md",
+                "file": "journals/2021_11_19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "8debb8704cf79c1a",
   "lastOpenFiles": [
+    "journals/2021_11_19.md",
     "journals/2021_11_18.md",
     "journals/11月 4日, 2021.md",
     "journals/2021_11_15.md"
