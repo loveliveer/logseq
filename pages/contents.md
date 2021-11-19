@@ -5,12 +5,12 @@
   collapsed:: true
 	- {{embed [[工作台]] }}
 - 计划任务清单
-  collapsed:: true
 	- 考研
-	  collapsed:: true
 		- 政治
 		- 英语
+			- [[英语一作文]]
 		- 数学三
+		  collapsed:: true
 			- 高等数学
 				- 函数/极限/连续
 				- 一元函数微分学1h

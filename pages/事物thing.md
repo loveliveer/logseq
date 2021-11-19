@@ -1,0 +1,2 @@
+- [[表象\现象surface\phenomenon]]
+- [[本质essence]]

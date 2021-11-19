@@ -1,0 +1,3 @@
+- [[基本情绪basic emotion]]
+- [[复合情绪complex emotion]]
+-
