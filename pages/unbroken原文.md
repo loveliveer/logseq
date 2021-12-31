@@ -1,0 +1,19 @@
+- you can't connect the dots looking forward.
+- you can only connect them looking backwards.
+- so you have to trust the dots will somehow connect in your future.
+- you have to trust in something, your gut, destiny, life, karma, whatever.
+- because believing that the dots will connect down the road will give you the confidence to follow your heart even when it lead you off the well worth path and that will make all the difference.
+- your time is limited. So don't waste it living in someone else's life. Don't be trapped by dogma, which is living with the result of other people's thinking.
+- Don't let the noise of other's opinions drown out your own inner voice.
+- you've got to find what you love and that is true for your work as it is for your lovers.
+- your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work, and the only way to do great work is to love what you do.
+- if you haven't found it yet, keep looking and don't settle.
+- Have the courage to follow your heart and intuition.
+- they somehow already know what you truly want to become.
+- you gonna have some ups and you gonna have some downs.
+- Most people give up on themselves easily.
+- You know the human spirit is powerful?
+- There is nothing as powerful——it's hard to kill the human spirit!!
+- Anybody can feel good when they have their health, their bills are paid, they have happy
+  relationships. Anybody can be positive then
+-

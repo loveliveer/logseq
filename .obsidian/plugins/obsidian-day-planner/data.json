@@ -10,11 +10,39 @@
     {
       "notePath": "journals/2021_11_19.md",
       "date": "Fri Nov 19 2021"
+    },
+    {
+      "notePath": "journals/2021_11_20.md",
+      "date": "Sat Nov 20 2021"
+    },
+    {
+      "notePath": "journals/2021_11_21.md",
+      "date": "Sun Nov 21 2021"
+    },
+    {
+      "notePath": "journals/2021_11_22.md",
+      "date": "Mon Nov 22 2021"
+    },
+    {
+      "notePath": "journals/2021_11_23.md",
+      "date": "Tue Nov 23 2021"
+    },
+    {
+      "notePath": "journals/2021_11_24.md",
+      "date": "Wed Nov 24 2021"
+    },
+    {
+      "notePath": "journals/2021_11_25.md",
+      "date": "Thu Nov 25 2021"
+    },
+    {
+      "notePath": "journals/2021_12_14.md",
+      "date": "Tue Dec 14 2021"
     }
   ],
   "completePastItems": false,
   "circularProgress": false,
   "nowAndNextInStatusBar": false,
-  "showTaskNotification": false,
+  "showTaskNotification": true,
   "timelineZoomLevel": 4
 }

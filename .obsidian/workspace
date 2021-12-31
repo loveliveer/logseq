@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "87d7dc5c5f458e6b",
+        "id": "481b6894a3c31456",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2021_11_19.md",
+            "file": "journals/2021_12_31.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2021_11_19.md",
+                "file": "journals/2021_12_31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +99,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87d7dc5c5f458e6b",
+  "active": "481b6894a3c31456",
   "lastOpenFiles": [
-    "journals/2021_11_19.md",
-    "pages/核心价值观.md",
-    "pages/诚信integrity.md",
-    "pages/英语一作文.md",
-    "pages/事物thing.md",
-    "pages/本质essence.md",
-    "pages/人.md",
-    "journals/2021_11_18.md",
-    "journals/11月 4日, 2021.md",
-    "journals/2021_11_15.md"
+    "journals/2021_12_31.md",
+    "journals/2021_12_14.md",
+    "pages/基本情绪basic emotion.md",
+    "pages/情绪emotion.md",
+    "pages/心理Psychology.md",
+    "journals/2021_12_11.md",
+    "journals/2021_12_07.md",
+    "journals/2021_12_04.md",
+    "journals/2021_11_28.md",
+    "pages/08 英语一 范文.md"
   ]
 }
