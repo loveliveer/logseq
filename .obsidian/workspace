@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/333教育综合.md",
+            "file": "pages/教育学基础.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pages/333教育综合.md",
+            "file": "pages/教育学基础.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/333教育综合.md",
+                "file": "pages/教育学基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,8 @@
   },
   "active": "4c7bca78326c7b20",
   "lastOpenFiles": [
-    "pages/333教育综合.md",
     "pages/教育学基础.md",
+    "pages/333教育综合.md",
     "journals/2021_12_31.md",
     "journals/2021_12_14.md",
     "pages/基本情绪basic emotion.md",
