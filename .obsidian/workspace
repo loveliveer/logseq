@@ -7,8 +7,22 @@
         "id": "4c7bca78326c7b20",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/333教育综合.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d154900e6ca74ce3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/333教育综合.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/333教育综合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
