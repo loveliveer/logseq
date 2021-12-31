@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "481b6894a3c31456",
+        "id": "4c7bca78326c7b20",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/333教育综合.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/333教育综合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +99,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "481b6894a3c31456",
+  "active": "4c7bca78326c7b20",
   "lastOpenFiles": [
     "pages/333教育综合.md",
     "journals/2021_12_31.md",
