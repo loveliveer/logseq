@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/教育学基础.md",
+            "file": "pages/第一章教育与教育学.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pages/教育学基础.md",
+            "file": "pages/第一章教育与教育学.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/教育学基础.md",
+                "file": "pages/第一章教育与教育学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "4c7bca78326c7b20",
   "lastOpenFiles": [
+    "pages/第一章教育与教育学.md",
     "pages/教育学基础.md",
     "pages/333教育综合.md",
     "journals/2021_12_31.md",
@@ -144,7 +145,6 @@
     "pages/情绪emotion.md",
     "pages/心理Psychology.md",
     "journals/2021_12_11.md",
-    "journals/2021_12_07.md",
-    "journals/2021_12_04.md"
+    "journals/2021_12_07.md"
   ]
 }
