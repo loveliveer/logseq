@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2021_12_31.md",
+            "file": "pages/未命名.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2021_12_31.md",
+                "file": "pages/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "481b6894a3c31456",
   "lastOpenFiles": [
+    "pages/未命名.md",
     "journals/2021_12_31.md",
     "journals/2021_12_14.md",
     "pages/基本情绪basic emotion.md",
@@ -109,7 +110,6 @@
     "journals/2021_12_11.md",
     "journals/2021_12_07.md",
     "journals/2021_12_04.md",
-    "journals/2021_11_28.md",
-    "pages/08 英语一 范文.md"
+    "journals/2021_11_28.md"
   ]
 }
