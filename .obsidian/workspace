@@ -20,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pages/中国教育史.md",
+            "file": "pages/第一章教育与教育学.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/中国教育史.md",
+                "file": "pages/第一章教育与教育学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +136,10 @@
   },
   "active": "83d32f4c201f01eb",
   "lastOpenFiles": [
+    "pages/第一章教育与教育学.md",
     "pages/中国教育史.md",
     "pages/333教育综合.md",
     "journals/2022_01_03.md",
-    "pages/第一章教育与教育学.md",
     "pages/教育学基础.md",
     "journals/2021_12_31.md",
     "journals/2021_12_14.md",
