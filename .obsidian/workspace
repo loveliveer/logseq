@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2022_01_03.md",
+            "file": "pages/333教育综合.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "journals/2022_01_03.md",
+            "file": "pages/中国教育史.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -43,7 +43,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.401982897776101,
               "close": false
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_01_03.md",
+                "file": "pages/中国教育史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +134,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4c7bca78326c7b20",
+  "active": "83d32f4c201f01eb",
   "lastOpenFiles": [
+    "pages/中国教育史.md",
+    "pages/333教育综合.md",
     "journals/2022_01_03.md",
     "pages/第一章教育与教育学.md",
     "pages/教育学基础.md",
-    "pages/333教育综合.md",
     "journals/2021_12_31.md",
     "journals/2021_12_14.md",
     "pages/基本情绪basic emotion.md",
     "pages/情绪emotion.md",
-    "pages/心理Psychology.md",
-    "journals/2021_12_11.md"
+    "pages/心理Psychology.md"
   ]
 }
