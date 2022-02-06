@@ -117,7 +117,7 @@
   :block/updated-at 1643469590141}
  {:block/name "2022_01_30",
   :block/created-at 1643510571819,
-  :block/updated-at 1644063335283}
+  :block/updated-at 1644066126713}
  {:block/name "2022_01_31",
   :block/created-at 1643620871570,
   :block/updated-at 1643636897760}
@@ -129,7 +129,10 @@
   :block/updated-at 1643803555467}
  {:block/name "2022_02_05",
   :block/created-at 1644051164273,
-  :block/updated-at 1644063696748}
+  :block/updated-at 1644069495037}
+ {:block/name "2022_02_06",
+  :block/created-at 1644118005872,
+  :block/updated-at 1644158286993}
  {:block/name "333教育综合",
   :block/created-at 1640953775555,
   :block/updated-at 1640953775555}
@@ -140,8 +143,8 @@
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "beam",
-  :block/created-at 1644063722184,
-  :block/updated-at 1644063722184}
+  :block/created-at 1644158447534,
+  :block/updated-at 1644158447534}
  {:block/name "c",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -149,17 +152,17 @@
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "confront",
-  :block/created-at 1644063722185,
-  :block/updated-at 1644063722185}
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
  {:block/name "conscience",
-  :block/created-at 1644063722184,
-  :block/updated-at 1644063722184}
+  :block/created-at 1644158447534,
+  :block/updated-at 1644158447534}
  {:block/name "consideration",
-  :block/created-at 1644063722184,
-  :block/updated-at 1644063722184}
+  :block/created-at 1644158447534,
+  :block/updated-at 1644158447534}
  {:block/name "consistent",
-  :block/created-at 1644063722184,
-  :block/updated-at 1644063722184}
+  :block/created-at 1644158447534,
+  :block/updated-at 1644158447534}
  {:block/name "contents",
   :block/created-at 1636950455268,
   :block/updated-at 1637303162788}
@@ -173,14 +176,29 @@
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "dedicate",
-  :block/created-at 1644063722185,
-  :block/updated-at 1644063722185}
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
  {:block/name "doing",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "done",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "e_",
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
+ {:block/name "e_/logseq",
+  :block/created-at 1644158447534,
+  :block/updated-at 1644158447534}
+ {:block/name "e_/logseq/logseq",
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
+ {:block/name "e_/logseq/logseq/pdf",
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
+ {:block/name "e_/logseq/logseq/pdf/c_primerplus_6.pdf",
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
  {:block/name "favorites",
   :block/created-at 1636959063980,
   :block/updated-at 1636959117588}
@@ -231,7 +249,7 @@
   :block/updated-at 1642168872434}
  {:block/name "中国教育史",
   :block/created-at 1642167470958,
-  :block/updated-at 1643364040248}
+  :block/updated-at 1644120491453}
  {:block/name "乐观optimism🤞",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -299,17 +317,20 @@
   :block/created-at 1643287589601,
   :block/updated-at 1643383940839}
  {:block/name "外国教育史",
-  :block/created-at 1644063722185,
-  :block/updated-at 1644063722185}
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
  {:block/name "大学计算机",
-  :block/created-at 1644063722184,
-  :block/updated-at 1644063722184}
+  :block/created-at 1644158447534,
+  :block/updated-at 1644158447534}
  {:block/name "失望disappointment🙃",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "好奇curiosity🤔",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "孔丘的教育思想",
+  :block/created-at 1644120532240,
+  :block/updated-at 1644125136165}
  {:block/name "学习learning",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -377,11 +398,11 @@
   :block/created-at 1640953775555,
   :block/updated-at 1641113322238}
  {:block/name "教育学的萌芽",
-  :block/created-at 1644063722183,
-  :block/updated-at 1644063722183}
+  :block/created-at 1644158447534,
+  :block/updated-at 1644158447534}
  {:block/name "教育形态",
-  :block/created-at 1644063722185,
-  :block/updated-at 1644063722185}
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
  {:block/name "教育技术学",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
@@ -412,6 +433,9 @@
  {:block/name "日常&习惯",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "春秋时期教育的变革",
+  :block/created-at 1644067672350,
+  :block/updated-at 1644069462854}
  {:block/name "本质essence",
   :block/created-at 1637300767532,
   :block/updated-at 1637300835257}
@@ -470,8 +494,8 @@
   :block/created-at 1640953827178,
   :block/updated-at 1642079062152}
  {:block/name "第二章教育功能",
-  :block/created-at 1644063722185,
-  :block/updated-at 1644063722185}
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
  {:block/name "紧张nervousness😖",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -482,8 +506,8 @@
   :block/created-at 1637288695916,
   :block/updated-at 1637288835441}
  {:block/name "英语写作",
-  :block/created-at 1644063722185,
-  :block/updated-at 1644063722185}
+  :block/created-at 1644158447535,
+  :block/updated-at 1644158447535}
  {:block/name "英语表达",
   :block/created-at 1640953775555,
   :block/updated-at 1640953775555}
