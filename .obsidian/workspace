@@ -7,8 +7,11 @@
         "id": "4c7bca78326c7b20",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/基本情绪basic emotion.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -17,6 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
+            "file": "pages/基本情绪basic emotion.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -99,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/基本情绪basic emotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +136,7 @@
   },
   "active": "4c7bca78326c7b20",
   "lastOpenFiles": [
+    "pages/基本情绪basic emotion.md",
     "journals/2022_02_08.md",
     "journals/2022_02_07.md",
     "journals/2022_01_31.md",
@@ -139,7 +145,6 @@
     "pages/教育学基础.md",
     "pages/333教育综合.md",
     "pages/中国教育史.md",
-    "journals/2022_01_03.md",
-    "journals/2021_12_31.md"
+    "journals/2022_01_03.md"
   ]
 }
