@@ -15,37 +15,13 @@
         }
       },
       {
-        "id": "83d32f4c201f01eb",
+        "id": "ba873a24eba25edb",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "pages/2021外国教育史333大纲.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.401982897776101,
-              "close": false
-            }
+            "file": "pages/2021中国教育史333大纲.md",
+            "mode": "source"
           }
         }
       }
@@ -137,6 +113,7 @@
   "active": "4c7bca78326c7b20",
   "lastOpenFiles": [
     "pages/2021外国教育史333大纲.md",
+    "pages/2021中国教育史333大纲.md",
     "pages/基本情绪basic emotion.md",
     "journals/2022_02_08.md",
     "journals/2022_02_07.md",
@@ -144,7 +121,6 @@
     "journals/2022_01_08.md",
     "pages/第一章教育与教育学.md",
     "pages/教育学基础.md",
-    "pages/333教育综合.md",
-    "pages/中国教育史.md"
+    "pages/333教育综合.md"
   ]
 }
