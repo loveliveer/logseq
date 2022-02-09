@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/基本情绪basic emotion.md",
+            "file": "pages/2021外国教育史333大纲.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "pages/基本情绪basic emotion.md",
+            "file": "pages/2021外国教育史333大纲.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/基本情绪basic emotion.md",
+                "file": "pages/2021外国教育史333大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "4c7bca78326c7b20",
   "lastOpenFiles": [
+    "pages/2021外国教育史333大纲.md",
     "pages/基本情绪basic emotion.md",
     "journals/2022_02_08.md",
     "journals/2022_02_07.md",
@@ -144,7 +145,6 @@
     "pages/第一章教育与教育学.md",
     "pages/教育学基础.md",
     "pages/333教育综合.md",
-    "pages/中国教育史.md",
-    "journals/2022_01_03.md"
+    "pages/中国教育史.md"
   ]
 }
