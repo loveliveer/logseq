@@ -30,4 +30,5 @@
   comfortabl e odg ng 舒适的住宿 deli cious regional acks 昧的 地小吃
   well organized competit on 井然有序的比赛 deep fr ends hip 深厚的友谊
 - 我的练习：
-- Dear
+- Dear sir or lady:
+-
