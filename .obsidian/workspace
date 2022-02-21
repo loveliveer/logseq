@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/中国教育史.md",
+            "file": "pages/春秋时期教育的变革.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/中国教育史.md",
+                "file": "pages/春秋时期教育的变革.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "b7744da0abd61a41",
   "lastOpenFiles": [
+    "pages/春秋时期教育的变革.md",
     "pages/中国教育史.md",
     "pages/孔丘的教育思想.md",
     "pages/333教育综合.md",
@@ -109,7 +110,6 @@
     "pages/2021中国教育史333大纲.md",
     "pages/基本情绪basic emotion.md",
     "journals/2022_02_08.md",
-    "journals/2022_02_07.md",
-    "journals/2022_01_31.md"
+    "journals/2022_02_07.md"
   ]
 }
