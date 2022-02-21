@@ -32,4 +32,4 @@
 - 我的练习：
 - Dear sir or lady:
 - 口口I really approciate you for reciving me, a English Spech fan, during I take part in the English Speech Competition in Parking University. I am considerably delighted to recall your English Speech Competition, through which I feel how you and your university love English Speech. Your considerate and warm reception made me feel great excitement、passion and drive., asstiting me to become a strong and driven individual and I will forever be grateful and indebted to you for that.
-- 口口Additionally, I highly
+- 口口Additionally, I highly welcome you to
