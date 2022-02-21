@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c7bca78326c7b20",
+        "id": "b7744da0abd61a41",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "journals/2022_02_21.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_02_21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +95,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4c7bca78326c7b20",
+  "active": "b7744da0abd61a41",
   "lastOpenFiles": [
     "journals/2022_02_21.md",
     "pages/2021外国教育史333大纲.md",
