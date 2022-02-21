@@ -31,4 +31,4 @@
   well organized competit on 井然有序的比赛 deep fr ends hip 深厚的友谊
 - 我的练习：
 - Dear sir or lady:
-- 口口I really approciate you for reciving me, a English Spe
+- 口口I really approciate you for reciving me, a English Spech
