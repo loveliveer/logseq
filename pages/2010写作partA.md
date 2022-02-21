@@ -32,4 +32,3 @@
 - 我的练习：
 - Dear sir or lady:
 - 口口I really approciate you for reciving me, a English Spech fan, during I take part in the English Speech Competition in Parking University.
--
