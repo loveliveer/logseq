@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/333教育综合.md",
+            "file": "pages/中国教育史.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/333教育综合.md",
+                "file": "pages/中国教育史.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "b7744da0abd61a41",
   "lastOpenFiles": [
+    "pages/中国教育史.md",
     "pages/333教育综合.md",
     "journals/2022_02_21.md",
     "pages/2021外国教育史333大纲.md",
@@ -109,7 +110,6 @@
     "journals/2022_02_08.md",
     "journals/2022_02_07.md",
     "journals/2022_01_31.md",
-    "journals/2022_01_08.md",
-    "pages/第一章教育与教育学.md"
+    "journals/2022_01_08.md"
   ]
 }
