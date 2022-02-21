@@ -7,5 +7,5 @@
   "tabSize": 4,
   "lineWrap": true,
   "spellcheck": true,
-  "readableLineLength": true
+  "readableLineLength": false
 }
