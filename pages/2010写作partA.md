@@ -11,7 +11,7 @@
   Thank you very much for receiving me, a delegate of Sino American cultural exchange program, 
   during my visit to Ameri ca. Your considera te and warm reception made me feel at home. You kindly 
   provided detai led explanation of Ameri can custom, assisting me to get over cu lture shock soon and, more 
-  importantly , have deeper und erstanding of American cu tur 巳. I had a great time there, and I rea lly appreciate eve ryt hing yo u have done fo r me. 
+  importantly , have deeper und erstanding of American cu tur 巳. I had a great time there, and I really appreciate eve ryt hing yo u have done fo r me. 
   Additionally, I highly welcome you to come to China in due course so that I can reciprocate your 
   hospitality. I promise you a fantastic visit, through which you may gain a deep insight into Chi nese culture. 
   Look forward to your visit. 
