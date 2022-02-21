@@ -18,7 +18,7 @@
   hospitality. I promise you a fantastic visit, through which you may gain a deep insight into Chi nese culture. 
   Look forward to your visit. 
   Yours sincerely , 
-  Zh ng ei
+  Zhang ei
 - 四、写作练习
   请参考模板和话题词汇，按照下列要求，进行写作
   Directions : 
