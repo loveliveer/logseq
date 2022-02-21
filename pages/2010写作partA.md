@@ -6,6 +6,19 @@
   You should write about 100 words on ANSWER SHEET 2. 
   Do not sign your own name at the end of the letter. Use "Zhang Wei" instead. 
   Do not write your address. (10 points)+
+- 二、优秀范文赏析
+  My Dea r Fri end, 
+  Thank you very much for receiving me, a delegate of Sino American cultural exchange program, 
+  during my visit to Ameri ca. Your considera te and warm reception made me feel at home. You kindly 
+  provided detai led explanation of Ameri can custom, assisting me to get over cu lture shock soon and, more 
+  importantly , have deeper und erstanding of American cu tur 巳. I had a great time there, and I rea lly 
+  49 
+  appreciate eve ryt hing yo u have done fo r me. 
+  Additionally, I highly welcome you to come to China in due course so that I can reciprocate your 
+  hospitality. I promise you a fantastic visit, through which you may gain a deep insight into Chi nese culture. 
+  Look forward to your visit. 
+  Yours sincerely , 
+  Zh ng ei
 - 四、写作练习
   请参考模板和话题词汇，按照下列要求，进行写作
   Directions : 
