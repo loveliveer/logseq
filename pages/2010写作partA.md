@@ -29,7 +29,7 @@
   ［话题词汇］
   comfortabl e odg ng 舒适的住宿 deli cious regional acks 昧的 地小吃
   well organized competit on 井然有序的比赛 deep fr ends hip 深厚的友谊
-- 我的练习：
+- 我的练习：【】
 - Dear sir or lady:
 - 口口I really approciate you for reciving me, a English Spech fan, during I take part in the English Speech Competition in Parking University. I am considerably delighted to recall your English Speech Competition, through which I feel how you and your university love English Speech. Your considerate and warm reception made me feel great excitement、passion and drive., asstiting me to become a strong and driven individual and I will forever be grateful and indebted to you for that.
 - 口口Additionally, I highly welcome you to visit my university whenever you desire. I promise you a fantasitic and magical visit, which you can join and enjoy a different English Speech competition.look forward to your visit.
