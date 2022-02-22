@@ -38,5 +38,5 @@
 - 批改后：
 - It’s quite appreciated that you recieved me, a English Speech fan, during me taking part in the English Speech Competition in Parking University. I am considerably delighted to share the memory of the past well-organized competition in Parking University, in which I feel how much you and your university love English Speech and deep friendship between us. I can’t help reminding of comfortable lodging and delicious regional snacks when we all part in the competition. Your considerate and warm reception makes me feel great excitement、passion and drive, assisting me to be a strong and driven individual and I will forever be grateful and indebted to you for that. 
   Additionally, I highly welcome you to visit my university whenever you would like. I promise you a fantasitic and magical visit, through which you can join and enjoy a different English Speech competition. Looking forward to your visit.
-  Yours sincerely
+- Yours sincerely
 - ZhangWei
