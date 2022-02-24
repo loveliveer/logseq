@@ -10,6 +10,30 @@
  {:block/name "09 英语一 范文",
   :block/created-at 1638010212946,
   :block/updated-at 1638010974892}
+ {:block/name "1870 年《初等教育法》",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "19 世纪末至 20 世纪前期的教育思潮和教育实验新教育运动中的著名实验",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "1922 年 “新学制”“新学制”的产生过程",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
+ {:block/name "1959 年《教育改革法》",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "20 世纪 20 年代的学制调整和教学改革实验",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "20 世纪 30 年代教育的调整、巩固和发展。",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "2010写作parta",
+  :block/created-at 1645431774325,
+  :block/updated-at 1645438196792}
+ {:block/name "2021 全国教育硕士专业学位研究生入学考试大纲",
+  :block/created-at 1644750814576,
+  :block/updated-at 1644750814753}
  {:block/name "2021_11_15",
   :block/created-at 1643510537478,
   :block/updated-at 1643629586730}
@@ -21,7 +45,7 @@
   :block/updated-at 1637107200000}
  {:block/name "2021_11_18",
   :block/created-at 1642588573780,
-  :block/updated-at 1643803568605}
+  :block/updated-at 1644275437007}
  {:block/name "2021_11_19",
   :block/created-at 1637280000000,
   :block/updated-at 1637280000000}
@@ -55,6 +79,21 @@
  {:block/name "2021_12_31",
   :block/created-at 1640924808744,
   :block/updated-at 1640965869940}
+ {:block/name "2021中国教育史333大纲",
+  :block/created-at 1644392263189,
+  :block/updated-at 1645608175154}
+ {:block/name "2021外国教育史333大纲",
+  :block/created-at 1644392309721,
+  :block/updated-at 1644848623338}
+ {:block/name "2021年333考试大纲",
+  :block/created-at 1644392260050,
+  :block/updated-at 1645337612577}
+ {:block/name "2021教育学基础333大纲",
+  :block/created-at 1644750884441,
+  :block/updated-at 1644846923695}
+ {:block/name "2021教育心理学333大纲",
+  :block/created-at 1644750953660,
+  :block/updated-at 1644849055893}
  {:block/name "2022_01_01",
   :block/created-at 1640995200000,
   :block/updated-at 1640995200000}
@@ -132,10 +171,55 @@
   :block/updated-at 1644069495037}
  {:block/name "2022_02_06",
   :block/created-at 1644118005872,
-  :block/updated-at 1644158286993}
+  :block/updated-at 1644229289321}
+ {:block/name "2022_02_07",
+  :block/created-at 1644229256532,
+  :block/updated-at 1644275409068}
+ {:block/name "2022_02_08",
+  :block/created-at 1644275416100,
+  :block/updated-at 1644335180362}
+ {:block/name "2022_02_09",
+  :block/created-at 1644378182588,
+  :block/updated-at 1644486235511}
+ {:block/name "2022_02_10",
+  :block/created-at 1644482035078,
+  :block/updated-at 1644507033163}
+ {:block/name "2022_02_11",
+  :block/created-at 1644584178228,
+  :block/updated-at 1644584216296}
+ {:block/name "2022_02_12",
+  :block/created-at 1644652497004,
+  :block/updated-at 1644813331686}
+ {:block/name "2022_02_13",
+  :block/created-at 1644710400000,
+  :block/updated-at 1644710400000}
+ {:block/name "2022_02_14",
+  :block/created-at 1644813342713,
+  :block/updated-at 1644938800675}
+ {:block/name "2022_02_15",
+  :block/created-at 1644938772788,
+  :block/updated-at 1644941976802}
+ {:block/name "2022_02_16",
+  :block/created-at 1645005515835,
+  :block/updated-at 1645337293268}
+ {:block/name "2022_02_20",
+  :block/created-at 1645367878389,
+  :block/updated-at 1645371692305}
+ {:block/name "2022_02_21",
+  :block/created-at 1645423481690,
+  :block/updated-at 1645452338599}
+ {:block/name "2022_02_22",
+  :block/created-at 1645488000000,
+  :block/updated-at 1645488000000}
+ {:block/name "2022_02_23",
+  :block/created-at 1645604688490,
+  :block/updated-at 1645628950698}
+ {:block/name "2022_02_24",
+  :block/created-at 1645660800000,
+  :block/updated-at 1645660800000}
  {:block/name "333教育综合",
   :block/created-at 1640953775555,
-  :block/updated-at 1640953775555}
+  :block/updated-at 1644392211489}
  {:block/name "a",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -143,26 +227,29 @@
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "beam",
-  :block/created-at 1644158447534,
-  :block/updated-at 1644158447534}
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
  {:block/name "c",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "c primer plus",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "card",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "confront",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "conscience",
-  :block/created-at 1644158447534,
-  :block/updated-at 1644158447534}
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "consideration",
-  :block/created-at 1644158447534,
-  :block/updated-at 1644158447534}
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
  {:block/name "consistent",
-  :block/created-at 1644158447534,
-  :block/updated-at 1644158447534}
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "contents",
   :block/created-at 1636950455268,
   :block/updated-at 1637303162788}
@@ -176,8 +263,8 @@
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "dedicate",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
  {:block/name "doing",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -185,20 +272,20 @@
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "e_",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
  {:block/name "e_/logseq",
-  :block/created-at 1644158447534,
-  :block/updated-at 1644158447534}
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
  {:block/name "e_/logseq/logseq",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "e_/logseq/logseq/pdf",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
  {:block/name "e_/logseq/logseq/pdf/c_primerplus_6.pdf",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
  {:block/name "favorites",
   :block/created-at 1636959063980,
   :block/updated-at 1636959117588}
@@ -238,57 +325,514 @@
  {:block/name "waiting",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
+ {:block/name "“三民主义”教育宗旨",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "“中体西用”思想的历史作用和局限",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "“习行”的教学方法",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "“人性利己说”与教育作用",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "“以吏为师”",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "“以法为教”",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "“体用一致”的文化教育观",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "“全人生指导”与青年教育。",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "“六三三”制",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "“六斋”与 “实学”教育内容",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "“六等黜陟法”",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "“化农民”与“农民化”",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "“四大教育”与“三大方式”",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "“存天理，灭人欲”与教育的作用、目的",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "“学校与教科书委员会”与“中华教育会”；教会学校的课程",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "“学而优则仕”与教育目标",
+  :block/created-at 1645451914381,
+  :block/updated-at 1645451914485}
+ {:block/name "“实才实德”的培养目标",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "“庶、富、教”",
+  :block/created-at 1645450737404,
+  :block/updated-at 1645450757747}
+ {:block/name "“性三品”说与教育作用",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "“性善论”与教育作用",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "“性恶论”与教育作用",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "“性相近也，习相远也”",
+  :block/created-at 1645451356954,
+  :block/updated-at 1645451468166}
+ {:block/name "“戊辰学制”的颁行",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "“战时须作平时看”的教育方针",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "“教学相长”",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "“新学制”的标准和体系",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "“新学制”的特点",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "“新学制”的课程标准",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "“新学制”评价",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "“日生日成”的人性与教育",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "“明人伦”与教育目的",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "“有教无类”与教育对象",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "“朱子读书法”",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "“正其谊以谋其利，明其道而计其功”的义利观",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "“民族的、科学的、大众的”文化教育方针",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "“法自然”与教育作用",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "“活教育”实验",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "“活教育”思想体系",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "“独尊儒术”",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "“生活教育”思想体系",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "“百日维新”中的教育改革创办京师大学堂",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "“监生历事”",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "“素丝说”与教育作用",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "“苏湖教法”",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "“道尔顿制”",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "“闻见知行”结合的学习过程与方法",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "“随人分限所及”的教育原则",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "《1944 年教育法》",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "《1988 年教育改革法》",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "《20 世纪 70-80 年代的教育改革》",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "《c语言程序设计》【第五版】谭浩强",
+  :block/created-at 1644423532352,
+  :block/updated-at 1644423532352}
+ {:block/name "《中小学教育法》",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
+ {:block/name "《中庸》",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "《哈多报告》",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "《国家在危机中：教育改革势在必行》",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "《国民学校章程》",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "《国防教育法》",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "《大学》",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "《学记》",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "《对贤良策》",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "《巴尔福教育法》",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "《帝国大学令》与大学区制",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "《改组和统一公立普通学校教育的总纲计划》",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "《教育基本法》和《学校教育法》",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "《白鹿洞书院揭示》与书院教育宗旨",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "《统一劳动学校规程》",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "《莫里尔法》",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "《费里教育法》",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "《郎之万——瓦隆教育改革方案》",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
  {:block/name "一元函数积分学",
   :block/created-at 1636952985312,
   :block/updated-at 1636953049566}
+ {:block/name "三大文教政策",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "上海大学",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "上课",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "不赞成disapproval👎",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "专门的教育素养",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "世俗教育宫廷学校",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "东林书院与书院讲会",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "严复的教育思想“鼓民力”“开民智”“兴民德”的“三育论”",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "个体活动在人的发展中的作用",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "中世纪大学",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "中国人民抗日军政大学",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
  {:block/name "中国大地最早的人类",
   :block/created-at 1642168841807,
   :block/updated-at 1642168872434}
  {:block/name "中国教育史",
   :block/created-at 1642167470958,
-  :block/updated-at 1644120491453}
+  :block/updated-at 1645617727313}
+ {:block/name "中外教育史对比",
+  :block/created-at 1644486239264,
+  :block/updated-at 1644486242851}
+ {:block/name "中央和地方官学体系完备",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "中央政府教育管理机构确立",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name
+  "中小学常用的教学方法讲授法、谈话法、练习法、演示法、实验法、实习作业法、讨论法、研究法、问题教学法等教学方法的含义和要求。",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "中小学校的童子军训练",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "中等教育",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "义利合一的教育价值观",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
  {:block/name "乐观optimism🤞",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "乡学",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "乡村建设和乡村教育理论",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "乡村教育的实施",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "书院改办学堂",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "书院教育的特点",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "书院的发展书院的产生与发展",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "事物thing",
   :block/created-at 1637296254609,
   :block/updated-at 1637296764324}
+ {:block/name "二因素理论、群因素论、流体智力与晶体智力理论",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "亚里士多德",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "京师同文馆",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "亲社会行为的发展阶段、影响因素与习得途径",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "人people",
   :block/created-at 1637288995155,
   :block/updated-at 1637289089907}
+ {:block/name "人文主义教育家弗吉里奥",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "人文主义教育的特征、影响和贡献",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "人本主义的学习理论罗杰斯的自由学习观",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "人格personality",
+  :block/created-at 1645005640736,
+  :block/updated-at 1645005663033}
+ {:block/name "人格发展理论与教育埃里克森的心理社会发展理论",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "人格发展理论的教育含义",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "人格发展的一般规律",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "人格差异与教育",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "人格理想与修养学说",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "人的发展的含义",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "人的发展的特点",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "人的发展的规律性",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "以 “兼士”为培养目标",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "以“六经”为教学内容",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
+ {:block/name "以“六艺”为教育内容",
+  :block/created-at 1645451985131,
+  :block/updated-at 1645451985278}
+ {:block/name "以“大儒”为培养目标",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "伊拉斯谟",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
  {:block/name "体格和军事训练",
   :block/created-at 1642341165452,
   :block/updated-at 1642341176323}
+ {:block/name "依靠群众办教育",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
+ {:block/name "俄国及苏联教育的发展彼得一世教育改革",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
  {:block/name "信息社会",
   :block/created-at 1641994692171,
   :block/updated-at 1641994692171}
+ {:block/name "修辞学校",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "倡导师范教育、女子教育和儿童教育",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "倡导新的教育主张“公其非是于学校”与学校的作用",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "做好班主任工作的计划与总结",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "健康的心理素质",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "元认知策略",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "元认知策略及其教学元认知及其作用",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "元认知策略的教学",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "公正justice",
   :block/created-at 1637302481527,
   :block/updated-at 1637302481565}
+ {:block/name "公民教育理论",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "六艺",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "共和时期",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
  {:block/name "关心caring🤗",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
+ {:block/name "兴办学会与发行报刊",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "兴太学以养士",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
  {:block/name "兴奋excitement🤩",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
+ {:block/name "军国主义教育体制的形成和发展",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
  {:block/name "农业社会",
   :block/created-at 1641994299936,
   :block/updated-at 1641994299936}
+ {:block/name "农民运动讲习所",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
  {:block/name "决定decision",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
  {:block/name "凌子视频",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "凯兴斯泰纳的“公民教育”与“劳作学校”理论",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "凯洛夫教育学体系",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "分支型学制",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "分组教学制",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "创造性及其培养创造性的内涵",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "创造性的培养措施",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "创造性的心理结构",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "初等学校各科教学法",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "初等教育",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "初级学院运动",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "判断judge",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "加尔文的教育思想",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "加德纳的多元智力理论、斯滕伯格的成功智力理论",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "加涅的信息加工学习理论",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "努力管理策略",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "勤工俭学运动",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "北宋三次兴学与“三舍法”",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "北魏的中央官学",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
  {:block/name "千岛短视频",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "协调各方面对学生的要求",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "单轨制",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "南朝宋的中央官学",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "卢梭的教育思想自然教育理论及其影响",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "历史影响",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "厌恶disgust🤮",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -301,54 +845,294 @@
  {:block/name "友善friendship",
   :block/created-at 1637303124836,
   :block/updated-at 1637303124836}
+ {:block/name "双轨制",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "发现学习",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "受教育者",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "古典时代",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "古希腊",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "古罗马",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "古风时代",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "同伴关系的发展及培养",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "吏师制度",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
  {:block/name "和谐harmony",
   :block/created-at 1637302224708,
   :block/updated-at 1637302224744}
+ {:block/name "品德不良及其矫正品德不良的含义与类型",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "品德不良的成因分析",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "品德不良的矫正",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "品德发展的实质",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "品德的形成过程及培养影响品德形成的因素",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "商代",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "困惑confusion😕",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
+ {:block/name "国共合作时期的黄埔军校",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "国学",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "国家主义教育思潮",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "城市学校与行会学校",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "培养“新民”的教育目的",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "培养和提高教师素养的主要途径",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "培养集体的方法",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
  {:block/name "基本情绪basic emotion",
   :block/created-at 1637292627561,
   :block/updated-at 1637296040337}
+ {:block/name "基督教教育基督教教育的机构与内容",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "基督教教育的特点",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "墨家的教育实践与教育思想“农与工肆之人”的代表",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "墨翟和墨家的教育思想",
+  :block/created-at 1645617752283,
+  :block/updated-at 1645623225578}
  {:block/name "复合情绪complex emotion",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "复述策略",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
  {:block/name "夏、商的教育",
   :block/created-at 1643287589601,
   :block/updated-at 1643383940839}
  {:block/name "外国教育史",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "大同书》中的教育理想",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "大学",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "大学计算机",
-  :block/created-at 1644158447534,
-  :block/updated-at 1644158447534}
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "天主教教育",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "太学",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "太平天国的教育举措对儒学的批判",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "失望disappointment🙃",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "夸美纽斯的教育思想论教育的目的和作用",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "奥苏伯尔的有意义接受说：有意义学习的实质和条件",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
  {:block/name "好奇curiosity🤔",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
  {:block/name "孔丘的教育思想",
   :block/created-at 1644120532240,
-  :block/updated-at 1644125136165}
+  :block/updated-at 1645447608906}
+ {:block/name "孔子的教育实践与教育思想创办私学与编订“六经”",
+  :block/created-at 1645446061060,
+  :block/updated-at 1645450900203}
+ {:block/name "孟子",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "学业求助策略",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "学习learning",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "学习动机概述学习动机的内涵",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "学习动机的主要理论学习动机的强化理论",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "学习动机的作用",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "学习动机的分类",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "学习动机的培养与激发",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "学习动机的培养与激发 影响学习动机的因素",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "学习动机的认知理论：期望——价值理论、成败归因理论、自我效能感理论、自我价值理论",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "学习动机的需要层次理论",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "学习概述学习的实质",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
  {:block/name "学习流程跟踪面板",
   :block/created-at 1636956233443,
   :block/updated-at 1636958045882}
+ {:block/name "学习的信息加工模式",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "学习的种类",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "学习策略的概念与结构学习策略的概念",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "学习策略的结构",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "学习阶段及教学设计",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "学在官府",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "学校教学和管理制度齐备",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "学校教学方法的改革与实验现代西方教学理论在中国的传播",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "学校教育制度的特点",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "学校教育的发展幼儿教育",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "学校教育的管理措施训育制度",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "学校管理人性化",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "学校管理体制",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "学校管理信息化",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "学校管理概述学校管理的概念",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "学校管理民主化",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "学校管理的内容和要求教学管理",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "学校管理的发展趋势学校管理法治化",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "学校管理的构成要素",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "学校管理目标",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "学校管理过程",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
  {:block/name "学校萌芽的传说",
   :block/created-at 1642342409435,
   :block/updated-at 1642342459492}
+ {:block/name "学生中心的教学观",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "学生学业成绩的评价",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "学生学习的特点",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "学生管理",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "学生群体及其主要类型",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "学问思辨行",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "实科中学",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "实行察举，任贤使能",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "实行教科书审查制度",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "实行毕业会考",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
  {:block/name "害怕fear😨",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "家庭教育",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "宽厚的文化素养",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "宽慰relief😅",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
  {:block/name "富强prosperity",
   :block/created-at 1637301422336,
   :block/updated-at 1637301510460}
+ {:block/name "小学",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "尴尬embarrassment😳",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -358,15 +1142,138 @@
  {:block/name "工作台",
   :block/created-at 1636981300879,
   :block/updated-at 1637288622328}
+ {:block/name "工读主义教育运动",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "巴甫洛夫的经典性条件反射说",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "巴西多与泛爱学校",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "布鲁纳的认知——发现说：认知学习观",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "师道观",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "帝国时期",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "干部学校教育",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "平民教育运动",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
  {:block/name "平等equality",
   :block/created-at 1637302433212,
   :block/updated-at 1637302433267}
+ {:block/name "幼儿园",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "幼童留美与派遣留欧",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "废科举，兴学堂",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "康有为的教育思想维新运动中的教育改革主张",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
+ {:block/name "建构主义学习理论的基本观点：知识观、学生观、学习观",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "建构主义的学习理论建构主义的思想渊源与理论取向",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "建立教育行政体制",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "建立现代学制",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "张之洞与《劝学篇》",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "张之洞的“中体西用”教育思想“中体西用”思想的形成与发展",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "影响知识理解的因素",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "影响认知发展的因素",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "得意pride☺️",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "德国教育的发展初等国民教育的兴起",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "德意志帝国与魏玛共和国时期的教育",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "德育原则",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "德育的任务和内容",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "德育的功能",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "德育的概念",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "德育的特点",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "德育过程",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "德育途径与方法",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "心智技能的培养方法",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "心智技能的形成与培养心智技能的形成过程",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "心理psychology",
   :block/created-at 1637290619889,
-  :block/updated-at 1637291002036}
+  :block/updated-at 1645005635144}
+ {:block/name "心理健康与心理素质的关系",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "心理健康的实质、标准；中小学生常见心理健康问题",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "心理发展与教育的关系",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "心理发展及其规律心理发展的内涵",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "心理发展的实质",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "心理发展的差异性与教育认知差异与教育",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "性别差异与教育",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "总务管理",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "恩物与作业",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
+ {:block/name "恽代英的教育思想",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "悔恨remorse😔",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
@@ -394,66 +1301,528 @@
  {:block/name "愤怒anger😠",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
+ {:block/name "我国中小学的课程设置",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "我国基础教育的课程改革",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "我国学校教育制度的演变",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "我国现行学校教育制度的形态",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "我国现行学校教育制度的改革",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "我国的教育目的",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "战国后期的教育论著",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "技能及其作用技能及其特点",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "技能的作用",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "技能的类型",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "抗日战争时期中国共产党的教育方针政策",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "抗日战争时期的学校西迁",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "拜占庭和阿拉伯教育主要教育机构",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "接受学习的界定及评价",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "推行导师制",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "操作技能的形成与训练操作技能的形成过程",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "操作技能的训练要求",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "收回教育权运动",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "收回教育权运动教会教育的扩张",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "改革北京大学的教育实践",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "改革教育内容",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "改革文字、文风和科举制度",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "改革科举制度",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "攻击行为及其改变方法",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "教会学校的举办英华书院与马礼逊学校",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "教会学校的发展",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教会学校的性质与影响",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教学与认知发展的关系",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "教学原则",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "教学工作的基本环节备课",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教学方法概述教学方法的概念",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教学方法的选择",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教学方法：因材施教、启发诱导、学思行结合",
+  :block/created-at 1645452004848,
+  :block/updated-at 1645452005029}
+ {:block/name "教学理论",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "教学的任务",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教学的基本组织形式和辅助组织形式",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教学的意义",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教学的概念",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教学组织形式概述个别教学制",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "教学评价",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "教学评价概述教学评价的概念",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "教学评价的原则和方法",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "教学评价的意义",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教学评价的种类",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "教学过程",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教导学生学好功课",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "教师个体专业性发展的过程",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教师劳动的专业性",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "教师劳动的价值",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教师劳动的创造性",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "教师劳动的复杂性",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教师劳动的特点",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "教师劳动的示范性",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "教师劳动的社会价值和个人价值",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教师教学工作的评价",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "教师的培养与提高教师的培养与提高的紧迫性",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教师的权利与义务",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "教师的素养高尚的师德",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "教师管理",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教师职业的角色扮演教师的“角色丛”",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教师角色发展的趋势",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教师角色的冲突及其解决",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教科书等概念",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "教育与生产劳动相结合",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "教育价值",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "教育内容",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "教育制度改革大学院和大学区制的试行",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教育制度概述教育制度的含义和特点",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "教育制度的历史发展",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "教育在我国社会主义建设中的地位和作用",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "教育学发展的多样化",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
  {:block/name "教育学基础",
   :block/created-at 1640953775555,
   :block/updated-at 1641113322238}
+ {:block/name "教育学的任务",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "教育学的独立",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "教育学的理论深化等阶段有代表性的教育家",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教育学的研究对象",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
  {:block/name "教育学的萌芽",
-  :block/created-at 1644158447534,
-  :block/updated-at 1644158447534}
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "教育宗旨与教育方针的变迁党化教育",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教育对人的发展的作用",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
  {:block/name "教育形态",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教育心理学",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "教育心理学的发展教育心理学的起源、发展过程、发展趋势",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教育心理学的概念",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "教育心理学的研容对象",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "教育心理学的研究任务",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教育思想",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
  {:block/name "教育技术学",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
+ {:block/name "教育智者派",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "教育概念的界定广义教育；狭义教育",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "教育活动方式等要素",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "教育活动的基本要素",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教育独立思想及对收回教育权的推进",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "教育现象",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "教育理论",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "教育的历史发展古代教育的特点",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "教育的历史发展过程",
   :block/created-at 1641992807633,
   :block/updated-at 1642081510351}
+ {:block/name "教育的政治功能",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "教育的文化功能",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
  {:block/name "教育的概念",
   :block/created-at 1640953967523,
   :block/updated-at 1641299535335}
+ {:block/name "教育的生态功能",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教育的社会功能与教育的相对独立性",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教育的社会变迁功能",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "教育的社会流动功能",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教育的社会流动功能在当代的重要意义",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教育的社会流动功能的含义",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "教育的经济功能",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "教育的质的特点",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "教育的起源",
   :block/created-at 1641300325836,
   :block/updated-at 1642342896494}
+ {:block/name "教育目的的价值取向",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "教育目的的建构",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教育目的的意义",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "教育目的的概念",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "教育者",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "教育艺术",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "教育著作",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
  {:block/name "教育要素",
   :block/created-at 1641118972234,
   :block/updated-at 1641120032427}
+ {:block/name "教育规律",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "教育问题",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
  {:block/name "敬业dedication",
   :block/created-at 1637302725653,
   :block/updated-at 1637302725671}
  {:block/name "数据结构",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "文化对教育的制约与影响",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "文字的产生提出新的教育需要",
   :block/created-at 1642342091717,
   :block/updated-at 1642342361695}
  {:block/name "文明civility",
   :block/created-at 1637301692195,
   :block/updated-at 1637301692244}
+ {:block/name "文法学校",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "文纳特卡制",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "斯宾塞的教育思想生活准备说",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "斯巴达教育",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "斯金纳的操作性条件反射说",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "新教的教育思想马丁路德的教育思想",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "新文化运动影响下的教育思潮和教育运动新文化运动抨击传统教育，促进教育观念变革",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "新民主主义教育发端中国共产党领导下的工农教育",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "新民主主义教育方针的形成苏维埃文化教育总方针",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "新行为主义教育",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "日常&习惯",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "日本教育的发展明治维新时期教育改革",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "早期改良派的教育主张全面学习西学",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "昆体良",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "昆西教学法",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "春秋时期教育的变革",
   :block/created-at 1644067672350,
   :block/updated-at 1644069462854}
+ {:block/name "晏阳初的乡村教育实验以县为单位的教育实验",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "晓庄学校、山海工学团、“小先生制”",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "智力结构理论",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "有关能力的基本理论传统智力理论",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "有效问题解决者的特征；问题解决能力的培养措施",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "有机教育学校",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "本质essence",
   :block/created-at 1637300767532,
   :block/updated-at 1637300835257}
+ {:block/name "朱熹的教育思想朱熹与《四书章句集注》",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "李大钊的教育思想",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "杜威教育思想的影响",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "杜威的教育思想论教育的本质与目的",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "杨贤江的马克思主义教育理论论教育的本质",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "柏拉图",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "柏林大学与现代大学制度的确立",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "校外活动和指导课余生活",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "校长负责制",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "核心价值观",
   :block/created-at 1637300837871,
   :block/updated-at 1637303121677}
+ {:block/name "根据地的小学教育",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "梁启超的教育思想“开民智” “兴民权”与教育作用",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "梁漱溟的乡村教育建设立足于文化传统的乡村建设实验",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "梅伊曼、拉伊的实验教育学",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "正确认识和评价教师的劳动价值",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
  {:block/name "每日重复",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "民主democracy",
   :block/created-at 1637301623122,
   :block/updated-at 1637301623162}
+ {:block/name "民国初年的教育改革制定教育方针",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "永恒主义教育",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "汉代",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "法国教育的发展启蒙运动时期的国民教育设想",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "法家",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "法治rule of law",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "洋务教育的创立和发展洋务学堂的兴办、类别与特点",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "洛克的教育思想白板说",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "清末教育新政与近代教育制度的建立“壬寅学制”和“癸卯学制”颁布",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "渴望desire😍",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "湖南自修大学",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
  {:block/name "烦恼annoyance😒",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -466,27 +1835,174 @@
  {:block/name "独咒之摄",
   :block/created-at 1642588812434,
   :block/updated-at 1642596664304}
+ {:block/name "王守仁的教育思想“致良知”与教育作用",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "环境在人的发展中的作用",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "现代人文主义教育思潮",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "现代学校教育制度学校教育制度的概念",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "现代学校教育制度的变革",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "现代教育的特点",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "现代欧美教育思潮改造主义教育",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "班主任工作概述班主任工作的意义与任务",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "班主任工作的内容和方法了解和研究学生",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "班主任素质的要求",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "班杜拉的观察学习理论及其教育应用",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "班级授课制",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "班集体的培养班集体的教育功能",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "生产力对教育的制约",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "生产劳动的教育",
   :block/created-at 1642169771350,
   :block/updated-at 1642170188477}
  {:block/name "生活习俗的教育",
   :block/created-at 1642339990496,
   :block/updated-at 1642340341708}
+ {:block/name "生活教育实践",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "生理physiology",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "生计教育和“返回基础”教育运动",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "甲骨卜辞中的商代学校",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "留日高潮与“庚款兴学”",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
  {:block/name "知觉perception",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "知识价值论",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "知识及知识获得的机制知识的含义及类型",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "知识应用的形式、知识迁移的种类与理论、促进知识应用与迁移的措施",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "知识理解的过程",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "知识的应用与迁移",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "知识的整合与应用知识的整合：记忆及其种类、遗忘的特点与原因、促进知识整合的措施",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "知识的理解知识理解的类型",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "知识获得的机制",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "知识输入",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
+ {:block/name "确定教育宗旨",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
  {:block/name "社会关系social relationship",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "社会建构主义学习理论与应用",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "社会性发展与教育亲社会行为的含义",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "社会性发展的一般规律",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "社会经济政治制度对教育的制约",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "社会行为social behavior",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "社会规范学习与品德发展的实质社会规范学习的含义与特点",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "社会规范学习的心理过程社会规范的遵从、认同、内化",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "社学",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "福建船政学堂",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "福禄培尔的教育思想万物有神论",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "私人讲学的兴起私人讲学兴起",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "私塾与蒙学教材私塾的发展、种类和教育特点",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "私学发展",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "科举制度与学校的关系；科举制度的影响",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "科举制度的建立科举制度的产生与发展",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "科举制度的演变与学校教育的改革宋元明清的文教政策",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "科举制度的演变及其对学校的制约",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "科学教育思潮",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "科学教育论",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "科尔伯格的道德发展阶段理论",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "科教兴国与国兴科教",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "秦代",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "积分法",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
  {:block/name "第一章小结",
   :block/created-at 1642342593745,
   :block/updated-at 1642342757034}
@@ -494,47 +2010,359 @@
   :block/created-at 1640953827178,
   :block/updated-at 1642079062152}
  {:block/name "第二章教育功能",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "精细加工策略",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "紧张nervousness😖",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "组织学生的劳动",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "组织班会活动",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "组织课外活动",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "绅士教育",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "终身教育",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "终身教育思潮",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "结构主义教育",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "结构教学观",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "维多里诺",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "维新派的教育实践兴办学堂",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "维果茨基的文化历史发展理论_ 文化历史发展理论的主要观点",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "编码与组织策略",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "罗马教育初级学校",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "美国教育的发展殖民地普及义务教育",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "考试的程序、科目和方法",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "职业教育思想体系",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "职业教育思潮",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "职业教育的探索",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
  {:block/name "自由freedom",
   :block/created-at 1637302349684,
   :block/updated-at 1637302349722}
+ {:block/name "苏格拉底",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "苏联建国初期的教育管理体制改革",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "苏联教育思想马卡连柯的教育思想",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "苏霍姆林斯基的教育理论",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "英国教育的发展公学",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "英语一2010text3总结",
+  :block/created-at 1645020486909,
+  :block/updated-at 1645021150486}
  {:block/name "英语一作文",
   :block/created-at 1637288695916,
   :block/updated-at 1637288835441}
  {:block/name "英语写作",
-  :block/created-at 1644158447535,
-  :block/updated-at 1644158447535}
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
  {:block/name "英语表达",
   :block/created-at 1640953775555,
   :block/updated-at 1640953775555}
+ {:block/name "荀子",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "莫尔",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "葛雷制",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "董仲舒",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "蒙台梭利的教育思想",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "蒙学教材的发展、种类和特点",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "蒙田",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "蔡元培的教育实践与教育思想“五育”并举的教育方针",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "行为主义的学习理论桑代克的联结说",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
  {:block/name "表象\\现象surface\\phenomenon",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "裴斯泰洛齐的教育思想教育实践活动",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "西周",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "西周教育制度与“六艺”教育",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "西周的教育",
   :block/created-at 1643364188826,
   :block/updated-at 1643364202219}
+ {:block/name "西塞罗",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "要素主义教育",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "视频制作",
   :block/created-at 1636991464973,
   :block/updated-at 1643510558284}
+ {:block/name "解放区中小学教育的正规化",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "解放区高等教育的整顿与建设",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "认知发展与教学的关系",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "认知发展理论与教育皮亚杰的认知发展阶段理论",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "认知发展理论对教育启示",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "认知发展的一般规律",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "认知发展的实质",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "认知发展的阶段",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "认知同化理论与先行组织策略",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "认知建构主义学习理论与应用",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "认知策略及其教学注意策略",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
  {:block/name "记忆memory",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "论“大学”与“小学”",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "论人性与教育作用",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "论人才的培养与选拔",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "论人的全面发展与教育的关系",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "论儿童教育",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "论士大夫教育",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "论学年制和班级授课制",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "论家庭教育",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "论思维与教学方法",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "论教学",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "论教师",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "论教师品格",
+  :block/created-at 1645452037738,
+  :block/updated-at 1645452037858}
+ {:block/name "论教育与生产劳动相结合的重大意义",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "论教育心理学化",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "论教育的功能",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "论教育目的",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "论教育适应自然的原则",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "论普及教育、泛智学校、统一学制及其管理实施",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "论要素教育",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "论课程与教材",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "论述近代学校制度",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "论道德教育",
+  :block/created-at 1645452024818,
+  :block/updated-at 1645452025015}
+ {:block/name "设计教学法",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "诂经精舍、学海堂与书院学术研究",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "评定学生操行",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "诚信integrity",
   :block/created-at 1637302959729,
   :block/updated-at 1637302959758}
+ {:block/name "诸子百家的私学",
+  :block/created-at 1645633091164,
+  :block/updated-at 1645633091164}
+ {:block/name "诸子百家私学的发展",
+  :block/created-at 1645604827151,
+  :block/updated-at 1645608071800}
+ {:block/name "课后教导工作",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "课程内容的设计",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "课程及课程方案",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "课程改革世界各国课程改革发展的趋势",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "课程标准",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "课程理论",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "课程理论的发展",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "课程论",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "课程论争的几个主要问题",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "课程设计课程目标的设计",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "贝尔——兰开斯特制",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "贺拉斯曼与公立学校运动",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "资源管理策略及其教学时间管理策略",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
  {:block/name "赞同approval👍",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "赞科夫的教学理论",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "赫尔巴特的教育思想教育思想的理论基础",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "走班制",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "近代教育体系的建立",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "进步主义教育运动历程",
+  :block/created-at 1645633091163,
+  :block/updated-at 1645633091163}
+ {:block/name "追求“逍遥”的人格理想",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "道家",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "道尔顿制",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "道德情感的形成与培养",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
  {:block/name "道德意识moral consciousness",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "道德教育理论",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "道德行为的形成与培养",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "道德认知的形成与培养",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "道歉+建议 仿写",
   :block/created-at 1637917427571,
   :block/updated-at 1638010170617}
+ {:block/name "遗传在人的发展中的作用",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "郡国学",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
  {:block/name "部落显贵世袭引起教育的变化",
   :block/created-at 1642341321882,
   :block/updated-at 1642341938471}
@@ -544,12 +2372,139 @@
  {:block/name "钦佩admiration👏",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "问题解决的实质与过程问题解决的内涵",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "问题解决的心理过程",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name
+  "问题解决能力的培养影响问题解决的因素：知识经验、智能与动机、问题情境与表征方式、思维定势与功能固着、原型启发与酝酿效应",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "陈述性知识获得的机制、程序性知识获得的机制",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "陈鹤琴的“活教育”探索幼儿教育和儿童教育探索",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "除八股考试，开设经济特科",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "陶行知的“生活教育”思想与实践为祖国、为民众、为儿童探索教育的一生",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "隋唐",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "雅典教育",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "集体的发展阶段",
+  :block/created-at 1645633091174,
+  :block/updated-at 1645633091174}
+ {:block/name "青少年心理健康教育的内容",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "青少年心理健康教育的方法：认知法、游戏法、测验法、讨论法、角色扮演法、行为改变法、实践操作法",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "青少年心理健康教育的目标",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "青少年心理健康教育的途径：专题训练、咨询与辅导、学科渗透",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "革命根据地和解放区教育的基本经验教育为政治服务",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "革命根据地和解放区的群众教育和学校教育群众教育",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "革命根据地的干部教育干部在职培训",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "韩愈的教育思想道统说",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "顺应自然原则",
+  :block/created-at 1645633091159,
+  :block/updated-at 1645633091159}
+ {:block/name "颁布“壬子癸丑学制”",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "颁布中小学校课程标准",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
+ {:block/name "颁布课程标准",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "领悟realization💡",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
+ {:block/name "颜之推的教育思想颜之推与《颜氏家训》",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "颜元的学校改革思想颜元与漳南书院",
+  :block/created-at 1645633091168,
+  :block/updated-at 1645633091168}
+ {:block/name "马克思主义人的全面发展学说",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
+ {:block/name "马克思和恩格斯的教育思想对空想社会主义教育思想的批判继承",
+  :block/created-at 1645633091170,
+  :block/updated-at 1645633091170}
  {:block/name "马原",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
+ {:block/name "骑士教育",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "高中以上学生的军训",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "高兴joy😃",
-  :block/created-at 1637537519227, 
-  :block/updated-at 1637537519227}]
+  :block/created-at 1637537519227,
+  :block/updated-at 1637537519227}
+ {:block/name "高等教育",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "魏晋南北朝",
+  :block/created-at 1645633091166,
+  :block/updated-at 1645633091166}
+ {:block/name "鸿都门学",
+  :block/created-at 1645633091167,
+  :block/updated-at 1645633091167}
+ {:block/name "黄炎培的职业教育思想与实践倡导学校教育的“实用主义”",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "齐国的稷下学宫",
+  :block/created-at 1645608209432,
+  :block/updated-at 1645617705730}
+ {:block/name "（墨子）主动说教、善述善作、合其志功的教育方法",
+  :block/created-at 1645633091169,
+  :block/updated-at 1645633091169}
+ {:block/name "（墨家）以科技知识和思维训练为特色的教育内容",
+  :block/created-at 1645633091160,
+  :block/updated-at 1645633091160}
+ {:block/name "（孔子时期）教育与人的发展",
+  :block/created-at 1645451798121,
+  :block/updated-at 1645451952758}
+ {:block/name "（孔子时期）教育与社会发展",
+  :block/created-at 1645451103303,
+  :block/updated-at 1645451166832}
+ {:block/name "（孔子）深远的历史影响",
+  :block/created-at 1645452187522,
+  :block/updated-at 1645452292310}
+ {:block/name "（孟子）主张因材施教、“深造自得”的教学思想",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
+ {:block/name "（法家）禁私学",
+  :block/created-at 1645633091173,
+  :block/updated-at 1645633091173}
+ {:block/name "（秦）禁私学",
+  :block/created-at 1645633091162,
+  :block/updated-at 1645633091162}
+ {:block/name "（道家）提倡怀疑的学习方法",
+  :block/created-at 1645633091171, 
+  :block/updated-at 1645633091171}]
