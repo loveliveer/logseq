@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/西周的教育.md",
+            "file": "journals/2022_05_16.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/西周的教育.md",
+                "file": "journals/2022_05_16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "b7744da0abd61a41",
   "lastOpenFiles": [
+    "journals/2022_05_16.md",
     "pages/西周的教育.md",
     "pages/中国教育史.md",
     "pages/333教育综合.md",
@@ -109,7 +110,6 @@
     "pages/孔丘的教育思想.md",
     "pages/春秋时期教育的变革.md",
     "journals/2022_02_21.md",
-    "pages/2021外国教育史333大纲.md",
-    "pages/2021中国教育史333大纲.md"
+    "pages/2021外国教育史333大纲.md"
   ]
 }
