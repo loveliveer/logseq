@@ -16,7 +16,8 @@ title:: Ubuntu安装Node.js
 - ```
   tar -xvf  node-v14.18.0-linux-x64.tar.xz  
   ```
-  1
+  1 ![image.png](../assets/image_1656328314253_0.png)
+-
 - ② mv  node-v14.18.0-linux-x64  nodejs 
   1
 - ③确认一下nodejs下bin目录是否有node 和npm文件，如果有执行下一步，如果没有重新下载执行上边步骤；
