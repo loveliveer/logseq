@@ -1,2 +1,3 @@
 - npm：全球最大的包管理器，需要依赖node.js
 - node.js
+	- mac
