@@ -217,171 +217,9 @@
  {:block/name "2022_02_24",
   :block/created-at 1645660800000,
   :block/updated-at 1645660800000}
- {:block/name "2022_02_25",
-  :block/created-at 1645801121008,
-  :block/updated-at 1645801376084}
- {:block/name "2022_02_26",
-  :block/created-at 1645848836827,
-  :block/updated-at 1645893945055}
- {:block/name "2022_02_27",
-  :block/created-at 1645920000000,
-  :block/updated-at 1645920000000}
- {:block/name "2022_02_28",
-  :block/created-at 1646006400000,
-  :block/updated-at 1646006400000}
- {:block/name "2022_03_03",
-  :block/created-at 1646288422435,
-  :block/updated-at 1646313480852}
- {:block/name "2022_03_04",
-  :block/created-at 1646352000000,
-  :block/updated-at 1646352000000}
- {:block/name "2022_03_05",
-  :block/created-at 1646487943186,
-  :block/updated-at 1646492290272}
- {:block/name "2022_03_07",
-  :block/created-at 1646611200000,
-  :block/updated-at 1646611200000}
- {:block/name "2022_03_09",
-  :block/created-at 1646834552918,
-  :block/updated-at 1646834779909}
- {:block/name "2022_03_10",
-  :block/created-at 1646924258354,
-  :block/updated-at 1646924759494}
- {:block/name "2022_03_13",
-  :block/created-at 1647185867154,
-  :block/updated-at 1647269859449}
- {:block/name "2022_03_14",
-  :block/created-at 1647187546015,
-  :block/updated-at 1647269960922}
- {:block/name "2022_03_15",
-  :block/created-at 1647357849408,
-  :block/updated-at 1647366688777}
- {:block/name "2022_03_16",
-  :block/created-at 1647388800000,
-  :block/updated-at 1647388800000}
- {:block/name "2022_03_22",
-  :block/created-at 1647954990314,
-  :block/updated-at 1647955004009}
- {:block/name "2022_03_23",
-  :block/created-at 1648039607046,
-  :block/updated-at 1648045574248}
- {:block/name "2022_03_25",
-  :block/created-at 1648212505119,
-  :block/updated-at 1648217936659}
- {:block/name "2022_03_26",
-  :block/created-at 1648252800000,
-  :block/updated-at 1648252800000}
- {:block/name "2022_03_27",
-  :block/created-at 1648385158359,
-  :block/updated-at 1648385161750}
- {:block/name "2022_03_28",
-  :block/created-at 1648476510624,
-  :block/updated-at 1648476552123}
- {:block/name "2022_03_30",
-  :block/created-at 1648653117647,
-  :block/updated-at 1648653361249}
- {:block/name "2022_04_01",
-  :block/created-at 1648817921797,
-  :block/updated-at 1648818025981}
- {:block/name "2022_04_02",
-  :block/created-at 1648857600000,
-  :block/updated-at 1648857600000}
- {:block/name "2022_04_03",
-  :block/created-at 1648992695559,
-  :block/updated-at 1648993272010}
- {:block/name "2022_04_04",
-  :block/created-at 1649030400000,
-  :block/updated-at 1649030400000}
- {:block/name "2022_04_05",
-  :block/created-at 1649166085099,
-  :block/updated-at 1649166638854}
- {:block/name "2022_04_06",
-  :block/created-at 1649259061183,
-  :block/updated-at 1649259097077}
- {:block/name "2022_04_08",
-  :block/created-at 1649427258230,
-  :block/updated-at 1649427507479}
- {:block/name "2022_04_09",
-  :block/created-at 1649513413531,
-  :block/updated-at 1649513546185}
- {:block/name "2022_04_10",
-  :block/created-at 1649775628865,
-  :block/updated-at 1649775634424}
- {:block/name "2022_04_11",
-  :block/created-at 1649775579558,
-  :block/updated-at 1649775580916}
- {:block/name "2022_04_12",
-  :block/created-at 1649774047935,
-  :block/updated-at 1649775520036}
- {:block/name "2022_04_13",
-  :block/created-at 1649859990032,
-  :block/updated-at 1649860079341}
- {:block/name "2022_04_14",
-  :block/created-at 1649941641983,
-  :block/updated-at 1649946589708}
- {:block/name "2022_04_15",
-  :block/created-at 1650034215404,
-  :block/updated-at 1650035109535}
- {:block/name "2022_04_16",
-  :block/created-at 1650082444887,
-  :block/updated-at 1650105597973}
- {:block/name "2022_04_17",
-  :block/created-at 1650207857067,
-  :block/updated-at 1650208354469}
- {:block/name "2022_04_18",
-  :block/created-at 1650274824931,
-  :block/updated-at 1650370699398}
- {:block/name "2022_04_19",
-  :block/created-at 1650366530505,
-  :block/updated-at 1650385298903}
- {:block/name "2022_04_20",
-  :block/created-at 1650627719319,
-  :block/updated-at 1650628404036}
- {:block/name "2022_04_22",
-  :block/created-at 1650585600000,
-  :block/updated-at 1650585600000}
- {:block/name "2022_04_25",
-  :block/created-at 1650865137283,
-  :block/updated-at 1650865138223}
- {:block/name "2022_05_04",
-  :block/created-at 1651650034412,
-  :block/updated-at 1651650053615}
- {:block/name "2022_05_05",
-  :block/created-at 1651708800000,
-  :block/updated-at 1651708800000}
- {:block/name "2022_05_06",
-  :block/created-at 1651795200000,
-  :block/updated-at 1651795200000}
- {:block/name "2022_05_09",
-  :block/created-at 1652054400000,
-  :block/updated-at 1652054400000}
- {:block/name "2022_05_11",
-  :block/created-at 1652227200000,
-  :block/updated-at 1652227200000}
- {:block/name "2022_05_13",
-  :block/created-at 1652400000000,
-  :block/updated-at 1652400000000}
- {:block/name "2022_05_16",
-  :block/created-at 1652659200000,
-  :block/updated-at 1652659200000}
- {:block/name "2022_05_30",
-  :block/created-at 1653868800000,
-  :block/updated-at 1653868800000}
- {:block/name "2022_05_31",
-  :block/created-at 1653955200000,
-  :block/updated-at 1653955200000}
- {:block/name "2022_06_02",
-  :block/created-at 1654175296613,
-  :block/updated-at 1654178284983}
- {:block/name "2022_06_27",
-  :block/created-at 1656326634583,
-  :block/updated-at 1656327304221}
  {:block/name "333教育综合",
   :block/created-at 1640953775555,
   :block/updated-at 1644392211489}
- {:block/name "[vue学习]vue开发流程——创建项目",
-  :block/created-at 1656327603578,
-  :block/updated-at 1656327610546}
  {:block/name "a",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -414,7 +252,7 @@
   :block/updated-at 1645633091162}
  {:block/name "contents",
   :block/created-at 1636950455268,
-  :block/updated-at 1656328017119}
+  :block/updated-at 1637303162788}
  {:block/name "c语言",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -463,15 +301,6 @@
  {:block/name "later",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
- {:block/name "linux",
-  :block/created-at 1656327071535,
-  :block/updated-at 1656327071535}
- {:block/name "node.js",
-  :block/created-at 1656328004903,
-  :block/updated-at 1656328004903}
- {:block/name "nodejs和npm的安装和环境搭建",
-  :block/created-at 1656327304220,
-  :block/updated-at 1656327945550}
  {:block/name "now",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
@@ -481,9 +310,6 @@
  {:block/name "todo",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
- {:block/name "ubuntu安装node.js",
-  :block/created-at 1656327945549,
-  :block/updated-at 1656327945549}
  {:block/name "unbroken",
   :block/created-at 1637929444853,
   :block/updated-at 1637929478307}
@@ -493,9 +319,6 @@
  {:block/name "unbroken原文",
   :block/created-at 1637929621440,
   :block/updated-at 1637934826861}
- {:block/name "vue",
-  :block/created-at 1656328017118,
-  :block/updated-at 1656328017118}
  {:block/name "wait",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -643,9 +466,6 @@
  {:block/name "“随人分限所及”的教育原则",
   :block/created-at 1645633091163,
   :block/updated-at 1645633091163}
- {:block/name "、曲率的概念",
-  :block/created-at 1656328053234,
-  :block/updated-at 1656328053234}
  {:block/name "《1944 年教育法》",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
@@ -715,30 +535,15 @@
  {:block/name "一元函数积分学",
   :block/created-at 1636952985312,
   :block/updated-at 1636953049566}
- {:block/name "一阶微分形式的不变性",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
- {:block/name "一阶线性微分方程",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
  {:block/name "三大文教政策",
   :block/created-at 1645633091174,
   :block/updated-at 1645633091174}
- {:block/name "三角函数的有理式和简单无理函数的积分",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
  {:block/name "上海大学",
   :block/created-at 1645633091168,
   :block/updated-at 1645633091168}
  {:block/name "上课",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "不定积分和定积分的换元积分法与分部积分法",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
- {:block/name "不定积分的基本性质",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
  {:block/name "不赞成disapproval👎",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -751,12 +556,6 @@
  {:block/name "东林书院与书院讲会",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "丢掉幻想准备斗争",
-  :block/created-at 1650366577232,
-  :block/updated-at 1650366577386}
- {:block/name "两个重要极限",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
  {:block/name "严复的教育思想“鼓民力”“开民智”“兴民德”的“三育论”",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
@@ -821,24 +620,9 @@
  {:block/name "事物thing",
   :block/created-at 1637296254609,
   :block/updated-at 1637296764324}
- {:block/name "二元函数的几何意义",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
- {:block/name "二元函数的极限与连续的概念",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
  {:block/name "二因素理论、群因素论、流体智力与晶体智力理论",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
- {:block/name "二重积分的概念",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
- {:block/name "二阶偏导数",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
- {:block/name "二阶常系数齐次线性微分方程",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
  {:block/name "亚里士多德",
   :block/created-at 1645633091168,
   :block/updated-at 1645633091168}
@@ -899,9 +683,6 @@
  {:block/name "以“大儒”为培养目标",
   :block/created-at 1645633091174,
   :block/updated-at 1645633091174}
- {:block/name "以贷养息",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
  {:block/name "伊拉斯谟",
   :block/created-at 1645633091170,
   :block/updated-at 1645633091170}
@@ -917,9 +698,6 @@
  {:block/name "信息社会",
   :block/created-at 1641994692171,
   :block/updated-at 1641994692171}
- {:block/name "信用卡",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "修辞学校",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
@@ -929,45 +707,12 @@
  {:block/name "倡导新的教育主张“公其非是于学校”与学校的作用",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "债务",
-  :block/created-at 1650865720372,
-  :block/updated-at 1650870822544}
- {:block/name "债务优化",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "债务协商",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "债务后果",
-  :block/created-at 1656328053234,
-  :block/updated-at 1656328053234}
- {:block/name "债务咨询",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "债务委托",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "债务烦恼",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "债务规划",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
- {:block/name "债务逾期",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
- {:block/name "债务重组",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "做好班主任工作的计划与总结",
   :block/created-at 1645633091163,
   :block/updated-at 1645633091163}
  {:block/name "健康的心理素质",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "催收",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "元认知策略",
   :block/created-at 1645633091168,
   :block/updated-at 1645633091168}
@@ -1022,42 +767,6 @@
  {:block/name "凯洛夫教育学体系",
   :block/created-at 1645633091160,
   :block/updated-at 1645633091160}
- {:block/name "函数",
-  :block/created-at 1656328053234,
-  :block/updated-at 1656328053234}
- {:block/name "函数单调性的判别",
-  :block/created-at 1656328053234,
-  :block/updated-at 1656328053234}
- {:block/name "函数图形的凹凸性",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
- {:block/name "函数图形的描绘",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
- {:block/name "函数的可导性与连续性之间的关系",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "函数的左极限与右极限",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
- {:block/name "函数的最大值与最小值",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
- {:block/name "函数的有界性、单调性、周期性和奇偶性",
-  :block/created-at 1648214245977,
-  :block/updated-at 1648214278331}
- {:block/name "函数的极值",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "函数的概念及表示法",
-  :block/created-at 1648213879298,
-  :block/updated-at 1648262734688}
- {:block/name "函数连续的概念",
-  :block/created-at 1656328053234,
-  :block/updated-at 1656328053234}
- {:block/name "函数间断点的类型",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "分支型学制",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
@@ -1073,12 +782,6 @@
  {:block/name "创造性的心理结构",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "初等函数函数关系的建立",
-  :block/created-at 1648214408403,
-  :block/updated-at 1648214408474}
- {:block/name "初等函数的连续性",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
  {:block/name "初等学校各科教学法",
   :block/created-at 1645633091166,
   :block/updated-at 1645633091166}
@@ -1091,9 +794,6 @@
  {:block/name "判断judge",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
- {:block/name "前端",
-  :block/created-at 1656326778753,
-  :block/updated-at 1656326778753}
  {:block/name "加尔文的教育思想",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
@@ -1136,9 +836,6 @@
  {:block/name "厌恶disgust🤮",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
- {:block/name "原函数和不定积分的概念",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "原始宗教的教育",
   :block/created-at 1642340375964,
   :block/updated-at 1642340954172}
@@ -1151,21 +848,12 @@
  {:block/name "双轨制",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
- {:block/name "反函数、隐函数以及参数方程所确定的函数的微分法",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
- {:block/name "反常(广义)积分",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "发现学习",
   :block/created-at 1645633091166,
   :block/updated-at 1645633091166}
  {:block/name "受教育者",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "变量可分离的微分",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
  {:block/name "古典时代",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
@@ -1178,15 +866,9 @@
  {:block/name "古风时代",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "可降阶的高阶微分方程",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "同伴关系的发展及培养",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "后端",
-  :block/created-at 1656326786158,
-  :block/updated-at 1656326786158}
  {:block/name "吏师制度",
   :block/created-at 1645633091163,
   :block/updated-at 1645633091163}
@@ -1208,6 +890,9 @@
  {:block/name "品德的形成过程及培养影响品德形成的因素",
   :block/created-at 1645633091166,
   :block/updated-at 1645633091166}
+ {:block/name "商代",
+  :block/created-at 1645633091171,
+  :block/updated-at 1645633091171}
  {:block/name "困惑confusion😕",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
@@ -1232,21 +917,9 @@
  {:block/name "培养集体的方法",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
- {:block/name "基本初等函数的导数",
-  :block/created-at 1656328053234,
-  :block/updated-at 1656328053234}
- {:block/name "基本初等函数的性质及其图形",
-  :block/created-at 1648214320492,
-  :block/updated-at 1648214320557}
- {:block/name "基本性质和计算",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
  {:block/name "基本情绪basic emotion",
   :block/created-at 1637292627561,
   :block/updated-at 1637296040337}
- {:block/name "基本积分公式",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "基督教教育基督教教育的机构与内容",
   :block/created-at 1645633091170,
   :block/updated-at 1645633091170}
@@ -1259,12 +932,6 @@
  {:block/name "墨翟和墨家的教育思想",
   :block/created-at 1645617752283,
   :block/updated-at 1645623225578}
- {:block/name "复合函数",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "复合函数、反函数、分段函数和隐函数",
-  :block/created-at 1648214296712,
-  :block/updated-at 1648214301707}
  {:block/name "复合情绪complex emotion",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -1277,18 +944,6 @@
  {:block/name "外国教育史",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
- {:block/name "多元函数的偏导数和全微分",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "多元函数的极值和条件极值",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
- {:block/name "多元函数的概念",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
- {:block/name "多元复合函数",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
  {:block/name "大同书》中的教育理想",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
@@ -1298,9 +953,6 @@
  {:block/name "大学计算机",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "大数据",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "天主教教育",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
@@ -1310,9 +962,6 @@
  {:block/name "太平天国的教育举措对儒学的批判",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "失信",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "失望disappointment🙃",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -1334,12 +983,6 @@
  {:block/name "孟子",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "孟子的教育思想思孟学派",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
- {:block/name "孟轲的教育思想",
-  :block/created-at 1645693473352,
-  :block/updated-at 1646316047470}
  {:block/name "学业求助策略",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
@@ -1460,15 +1103,6 @@
  {:block/name "学问思辨行",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
- {:block/name "定积分中值定理",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
- {:block/name "定积分的应用",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "定积分的概念和基本性质",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
  {:block/name "实科中学",
   :block/created-at 1645633091163,
   :block/updated-at 1645633091163}
@@ -1496,15 +1130,6 @@
  {:block/name "富强prosperity",
   :block/created-at 1637301422336,
   :block/updated-at 1637301510460}
- {:block/name "导数和微分的四则运算",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
- {:block/name "导数和微分的概念",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
- {:block/name "导数的几何意义和物理意义",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
  {:block/name "小学",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
@@ -1535,9 +1160,6 @@
  {:block/name "帝国时期",
   :block/created-at 1645633091160,
   :block/updated-at 1645633091160}
- {:block/name "常微分方程的基本概念",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
  {:block/name "干部学校教育",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
@@ -1547,9 +1169,6 @@
  {:block/name "平等equality",
   :block/created-at 1637302433212,
   :block/updated-at 1637302433267}
- {:block/name "平面曲线的切线和法线",
-  :block/created-at 1656328053234,
-  :block/updated-at 1656328053234}
  {:block/name "幼儿园",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
@@ -1574,36 +1193,21 @@
  {:block/name "建立现代学制",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "开发技术",
-  :block/created-at 1656326764326,
-  :block/updated-at 1656326805205}
  {:block/name "张之洞与《劝学篇》",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
  {:block/name "张之洞的“中体西用”教育思想“中体西用”思想的形成与发展",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
- {:block/name "弧微分",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
  {:block/name "影响知识理解的因素",
   :block/created-at 1645633091166,
   :block/updated-at 1645633091166}
  {:block/name "影响认知发展的因素",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "征信黑名单",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "得意pride☺️",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
- {:block/name "微分中值定理洛必达法则",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
- {:block/name "微分方程的简单应用",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
  {:block/name "德国教育的发展初等国民教育的兴起",
   :block/created-at 1645633091168,
   :block/updated-at 1645633091168}
@@ -1733,9 +1337,6 @@
  {:block/name "抗日战争时期的学校西迁",
   :block/created-at 1645633091168,
   :block/updated-at 1645633091168}
- {:block/name "拐点及渐近线",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
  {:block/name "拜占庭和阿拉伯教育主要教育机构",
   :block/created-at 1645633091159,
   :block/updated-at 1645633091159}
@@ -2057,12 +1658,6 @@
  {:block/name "敬业dedication",
   :block/created-at 1637302725653,
   :block/updated-at 1637302725671}
- {:block/name "数列极限与函数极限的定义及其性质",
-  :block/created-at 1648213981337,
-  :block/updated-at 1648214129032}
- {:block/name "数学二考试大纲",
-  :block/created-at 1648212900298,
-  :block/updated-at 1648212928387}
  {:block/name "数据结构",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -2105,15 +1700,6 @@
  {:block/name "新行为主义教育",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
- {:block/name "无效还款",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
- {:block/name "无穷小量和无穷大量的概念及其关系",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
- {:block/name "无穷小量的性质及无穷小量的比较",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
  {:block/name "日常&习惯",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -2129,12 +1715,6 @@
  {:block/name "昆西教学法",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "星巴克",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
- {:block/name "映射",
-  :block/created-at 1648262747214,
-  :block/updated-at 1648265983694}
  {:block/name "春秋时期教育的变革",
   :block/created-at 1644067672350,
   :block/updated-at 1644069462854}
@@ -2147,12 +1727,6 @@
  {:block/name "智力结构理论",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
- {:block/name "曲率圆与曲率半径",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
- {:block/name "最大值和最小值",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
  {:block/name "有关能力的基本理论传统智力理论",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
@@ -2162,12 +1736,6 @@
  {:block/name "有机教育学校",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "有理函数",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
- {:block/name "有界闭区域上二元连续函数的性质",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "本质essence",
   :block/created-at 1637300767532,
   :block/updated-at 1637300835257}
@@ -2186,12 +1754,6 @@
  {:block/name "杨贤江的马克思主义教育理论论教育的本质",
   :block/created-at 1645633091174,
   :block/updated-at 1645633091174}
- {:block/name "极限存在的两个准则_单调有界准则和夹逼准则",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
- {:block/name "极限的四则运算",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
  {:block/name "柏拉图",
   :block/created-at 1645633091167,
   :block/updated-at 1645633091167}
@@ -2219,12 +1781,6 @@
  {:block/name "梅伊曼、拉伊的实验教育学",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
- {:block/name "概率论与数理统计",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
- {:block/name "止损",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
  {:block/name "正确认识和评价教师的劳动价值",
   :block/created-at 1645633091174,
   :block/updated-at 1645633091174}
@@ -2243,21 +1799,12 @@
  {:block/name "汉代",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
- {:block/name "汉朝学校教育的发展和经学教育的特点",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
- {:block/name "汉朝的文化教育政策",
-  :block/created-at 1646919824454,
-  :block/updated-at 1646921410005}
  {:block/name "法国教育的发展启蒙运动时期的国民教育设想",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
  {:block/name "法家",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
- {:block/name "法家的思想教育与实践",
-  :block/created-at 1646486470800,
-  :block/updated-at 1646487170894}
  {:block/name "法治rule of law",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -2279,27 +1826,15 @@
  {:block/name "烦恼annoyance😒",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
- {:block/name "爆通讯录",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
  {:block/name "爱love❤️",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "爱国patriotism",
   :block/created-at 1637302557547,
   :block/updated-at 1637302557589}
- {:block/name "牛顿-菜布尼茨(newton-leibniz)公式",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
  {:block/name "独咒之摄",
   :block/created-at 1642588812434,
   :block/updated-at 1642596664304}
- {:block/name "独摄",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
- {:block/name "王充的教育思想",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
  {:block/name "王守仁的教育思想“致良知”与教育作用",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
@@ -2465,12 +2000,6 @@
  {:block/name "秦代",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
- {:block/name "秦汉的教育政策及其措施",
-  :block/created-at 1646918583865,
-  :block/updated-at 1646921334717}
- {:block/name "积分上限的函数及其导数",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
  {:block/name "积分法",
   :block/created-at 1645633091174,
   :block/updated-at 1645633091174}
@@ -2483,21 +2012,12 @@
  {:block/name "第二章教育功能",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "简单的二阶常系数非齐次线性微分方程",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
  {:block/name "精细加工策略",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
  {:block/name "紧张nervousness😖",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
- {:block/name "线性代数",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
- {:block/name "线性微分方程解的性质及解的结构定理",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
  {:block/name "组织学生的劳动",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
@@ -2534,9 +2054,6 @@
  {:block/name "编码与组织策略",
   :block/created-at 1645633091174,
   :block/updated-at 1645633091174}
- {:block/name "网贷",
-  :block/created-at 1656328053238,
-  :block/updated-at 1656328053238}
  {:block/name "罗马教育初级学校",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
@@ -2585,27 +2102,18 @@
  {:block/name "英语表达",
   :block/created-at 1640953775555,
   :block/updated-at 1640953775555}
- {:block/name "荀况的教育思想",
-  :block/created-at 1645693778745,
-  :block/updated-at 1646406650554}
- {:block/name "荀子的教育思想荀子与“六经”传授",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
+ {:block/name "荀子",
+  :block/created-at 1645633091172,
+  :block/updated-at 1645633091172}
  {:block/name "莫尔",
   :block/created-at 1645633091163,
   :block/updated-at 1645633091163}
- {:block/name "莱昂纳多在联合国就全球气候变暖发表演讲",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
  {:block/name "葛雷制",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
  {:block/name "董仲舒",
   :block/created-at 1645633091163,
   :block/updated-at 1645633091163}
- {:block/name "董仲舒的教育思想",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
  {:block/name "蒙台梭利的教育思想",
   :block/created-at 1645633091162,
   :block/updated-at 1645633091162}
@@ -2651,9 +2159,6 @@
  {:block/name "解放区高等教育的整顿与建设",
   :block/created-at 1645633091174,
   :block/updated-at 1645633091174}
- {:block/name "计算机学习",
-  :block/created-at 1649054240096,
-  :block/updated-at 1649054280511}
  {:block/name "认知发展与教学的关系",
   :block/created-at 1645633091167,
   :block/updated-at 1645633091167}
@@ -2801,9 +2306,6 @@
  {:block/name "贝尔——兰开斯特制",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
- {:block/name "负债",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
  {:block/name "贺拉斯曼与公立学校运动",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
@@ -2822,21 +2324,9 @@
  {:block/name "走班制",
   :block/created-at 1645633091167,
   :block/updated-at 1645633091167}
- {:block/name "迅达",
-  :block/created-at 1656328053235,
-  :block/updated-at 1656328053235}
- {:block/name "迅达广告",
-  :block/created-at 1656326852821,
-  :block/updated-at 1656326852821}
  {:block/name "近代教育体系的建立",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
- {:block/name "还债",
-  :block/created-at 1656328053241,
-  :block/updated-at 1656328053241}
- {:block/name "还利息",
-  :block/created-at 1656328053240,
-  :block/updated-at 1656328053240}
  {:block/name "进步主义教育运动历程",
   :block/created-at 1645633091163,
   :block/updated-at 1645633091163}
@@ -2846,9 +2336,6 @@
  {:block/name "道家",
   :block/created-at 1645633091173,
   :block/updated-at 1645633091173}
- {:block/name "道家的思想教育",
-  :block/created-at 1646481105133,
-  :block/updated-at 1646486420231}
  {:block/name "道尔顿制",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
@@ -2882,15 +2369,9 @@
  {:block/name "里亚-圣诞节视频",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
- {:block/name "金融",
-  :block/created-at 1650865704546,
-  :block/updated-at 1650865704546}
  {:block/name "钦佩admiration👏",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
- {:block/name "闭区间上连续函数的性质",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
  {:block/name "问题解决的实质与过程问题解决的内涵",
   :block/created-at 1645633091167,
   :block/updated-at 1645633091167}
@@ -2916,9 +2397,6 @@
  {:block/name "隋唐",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
- {:block/name "隐函数的求导法",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
  {:block/name "雅典教育",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
@@ -2985,21 +2463,12 @@
  {:block/name "高中以上学生的军训",
   :block/created-at 1645633091172,
   :block/updated-at 1645633091172}
- {:block/name "高于二阶的某些常系数齐次线性微分方程",
-  :block/created-at 1656328053237,
-  :block/updated-at 1656328053237}
  {:block/name "高兴joy😃",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
  {:block/name "高等教育",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
- {:block/name "高等数学",
-  :block/created-at 1648212931493,
-  :block/updated-at 1649855872091}
- {:block/name "高阶导数",
-  :block/created-at 1656328053236,
-  :block/updated-at 1656328053236}
  {:block/name "魏晋南北朝",
   :block/created-at 1645633091166,
   :block/updated-at 1645633091166}
@@ -3012,9 +2481,6 @@
  {:block/name "齐国的稷下学宫",
   :block/created-at 1645608209432,
   :block/updated-at 1645617705730}
- {:block/name "齐次微分方程",
-  :block/created-at 1656328053239,
-  :block/updated-at 1656328053239}
  {:block/name "（墨子）主动说教、善述善作、合其志功的教育方法",
   :block/created-at 1645633091169,
   :block/updated-at 1645633091169}
