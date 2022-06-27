@@ -8,7 +8,8 @@
 		-
 		-
 	- [[后端]]
-		- [[ubuntu下安装npm+node.js]] #linux
+		- [[ubuntu下安装npm+node.js]] #linux #unbuntu
+		-
 		-
 		-
 - 归档
