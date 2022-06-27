@@ -1,4 +1,4 @@
 - npm：全球最大的包管理器，需要依赖node.js
 - node.js
 	- mac&windows：官网下载
-	-
+	- linux：官网下载
