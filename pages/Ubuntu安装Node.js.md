@@ -16,7 +16,7 @@ title:: Ubuntu安装Node.js
 - ```
   tar -xvf  node-v14.18.0-linux-x64.tar.xz  
   ```
-  1 ![image.png](../assets/image_1656328314253_0.png)
+- ![image.png](../assets/image_1656328314253_0.png)
 -
 - ② mv  node-v14.18.0-linux-x64  nodejs 
   1
