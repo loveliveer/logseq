@@ -4,4 +4,5 @@
 	- linux：官网下载解压到服务器
 	- [[ubuntu下安装npm+node.js]]
 - cnpm安装：npm install -g cnpm #npm指令
-- node.js 的使用：node (进入node编程界面)
+- node.js 的使用：node (进入node编程界面后使用) #node.js
+-
