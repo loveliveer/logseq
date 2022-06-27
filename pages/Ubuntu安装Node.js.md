@@ -3,7 +3,7 @@ title:: Ubuntu安装Node.js
 - Ubunt 安装Node.js
   打开终端
 - 第一步：查看自己应该安装什么版本的Node
-- ````uname -a
+- uname -a
   1
 - 第二步：根据需求官网下载匹配自己系统的文件：
 - 英文网址：https://nodejs.org/en/download/
