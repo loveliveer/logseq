@@ -14,6 +14,7 @@ title:: Ubuntu安装Node.js
 - 注意：可以先在自己的电脑上下载好，然后通过Xftp移动至虚拟机上，目录自行指定。
 - 第三步：解压上传的压缩包
 - ```
+  tar -xvf  node-v14.18.0-linux-x64.tar.xz  
   ```
   1
 - ② mv  node-v14.18.0-linux-x64  nodejs 
