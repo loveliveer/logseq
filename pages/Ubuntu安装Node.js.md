@@ -6,7 +6,7 @@ title:: Ubuntu安装Node.js
 - ```
   uname -a
   ```
-  1
+-
 - 第二步：根据需求官网下载匹配自己系统的文件：
 - 英文网址：https://nodejs.org/en/download/
 - 中文网址：http://nodejs.cn/download/
