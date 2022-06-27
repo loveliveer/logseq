@@ -1,6 +1,3 @@
-collapsed:: true
-
-	- {{embed [[学习流程跟踪面板]]}}
 - [[工作台]] 
   collapsed:: true
 	- {{embed [[工作台]] }}
