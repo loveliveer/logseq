@@ -1,5 +1,6 @@
-title:: Ubuntu安装Node.js
+title:: ubuntu下安装npm+node.js
 
+- title:: ubuntu下安装npm+node.js
 - Ubunt 安装Node.js
   打开终端
 - 第一步：查看自己应该安装什么版本的Node

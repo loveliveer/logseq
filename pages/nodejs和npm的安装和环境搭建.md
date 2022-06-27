@@ -2,5 +2,5 @@
 - node.js
 	- mac&windows：官网下载
 	- linux：官网下载解压到服务器
-	- [[Ubuntu安装Node.js]]
+	- [[ubuntu下安装npm+node.js]]
 -
