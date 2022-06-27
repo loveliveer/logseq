@@ -3,4 +3,4 @@
 	- mac&windows：官网下载
 	- linux：官网下载解压到服务器
 	- [[ubuntu下安装npm+node.js]]
--
+- cnpm
