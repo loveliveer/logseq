@@ -7,7 +7,8 @@
 		- [[[Vue学习]Vue开发流程——创建项目]]
 		-
 	- [[后端]]
-		- [[Ubuntu安装Node.js]]
+		- [[Ubuntu安装Node.js]] #linux
+		-
 		-
 - 归档
 	-
