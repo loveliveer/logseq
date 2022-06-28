@@ -4,7 +4,7 @@
 - [[开发技术]]
 	- [[前端]]
 		- 基础
-			- HTML
+			- [[HTML]]
 				- 标签及其属性
 				  collapsed:: true
 					- <!-->
@@ -130,7 +130,8 @@
 					- <wbr>
 				- 样式
 				- 选择器
-			- CSS
+			- [[CSS]]
+			-
 			- JavaScript
 			-
 		- [[nodejs和npm的安装和环境搭建]] #node.js
