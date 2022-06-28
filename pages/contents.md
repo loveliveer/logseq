@@ -126,7 +126,8 @@
 					- <u>
 					- <ul>
 					- <var>
-					- <video><wbr>
+					- <video>
+					- <wbr>
 				- 样式
 				- 选择器
 			- CSS
