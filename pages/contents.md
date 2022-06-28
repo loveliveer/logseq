@@ -87,7 +87,12 @@
 					- <option>
 					- <output>
 					- <p>
-					- <param><pre><html><picture><progress><q><rp><rt><ruby><s><samp><script><section><select><small><source><span><strike><strong><style><sub><summary><sup><table><tbody><td><textarea>< template><tfoot><th><thead><time><title><tr><track><tt><u><ul><var><video><wbr>
+					- <param>
+					- <pre>
+					- <html>
+					- <picture>
+					- <progress>
+					- <q><rp><rt><ruby><s><samp><script><section><select><small><source><span><strike><strong><style><sub><summary><sup><table><tbody><td><textarea>< template><tfoot><th><thead><time><title><tr><track><tt><u><ul><var><video><wbr>
 				- 样式
 				- 选择器
 			- CSS
