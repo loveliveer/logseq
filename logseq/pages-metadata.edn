@@ -375,7 +375,7 @@
   :block/updated-at 1654178284983}
  {:block/name "2022_06_27",
   :block/created-at 1656326634583,
-  :block/updated-at 1656327304221}
+  :block/updated-at 1656333552163}
  {:block/name "333教育综合",
   :block/created-at 1640953775555,
   :block/updated-at 1644392211489}
@@ -414,7 +414,7 @@
   :block/updated-at 1645633091162}
  {:block/name "contents",
   :block/created-at 1636950455268,
-  :block/updated-at 1656328017119}
+  :block/updated-at 1656332879753}
  {:block/name "c语言",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
@@ -466,24 +466,30 @@
  {:block/name "linux",
   :block/created-at 1656327071535,
   :block/updated-at 1656327071535}
+ {:block/name "linux指令",
+  :block/created-at 1656328116974,
+  :block/updated-at 1656328116974}
  {:block/name "node.js",
   :block/created-at 1656328004903,
-  :block/updated-at 1656328004903}
+  :block/updated-at 1656330600634}
  {:block/name "nodejs和npm的安装和环境搭建",
   :block/created-at 1656327304220,
-  :block/updated-at 1656327945550}
+  :block/updated-at 1656330084833}
  {:block/name "now",
   :block/created-at 1637537519228,
   :block/updated-at 1637537519228}
+ {:block/name "npm指令",
+  :block/created-at 1656329994944,
+  :block/updated-at 1656329994944}
  {:block/name "readme",
   :block/created-at 1637537519226,
   :block/updated-at 1637537519226}
  {:block/name "todo",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
- {:block/name "ubuntu安装node.js",
+ {:block/name "ubuntu下安装npm+node.js",
   :block/created-at 1656327945549,
-  :block/updated-at 1656327945549}
+  :block/updated-at 1656329211411}
  {:block/name "unbroken",
   :block/created-at 1637929444853,
   :block/updated-at 1637929478307}
@@ -493,6 +499,9 @@
  {:block/name "unbroken原文",
   :block/created-at 1637929621440,
   :block/updated-at 1637934826861}
+ {:block/name "unbuntu",
+  :block/created-at 1656332879751,
+  :block/updated-at 1656332879751}
  {:block/name "vue",
   :block/created-at 1656328017118,
   :block/updated-at 1656328017118}
@@ -2825,9 +2834,6 @@
  {:block/name "迅达",
   :block/created-at 1656328053235,
   :block/updated-at 1656328053235}
- {:block/name "迅达广告",
-  :block/created-at 1656326852821,
-  :block/updated-at 1656326852821}
  {:block/name "近代教育体系的建立",
   :block/created-at 1645633091171,
   :block/updated-at 1645633091171}
