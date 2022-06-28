@@ -4,8 +4,9 @@
 - [[开发技术]]
 	- [[前端]]
 		- 基础
-			- HTML5
+			- HTML
 				- 标签及其属性
+				  collapsed:: true
 					- <!-->
 					- < !DOCTYPE>
 					- <a>
