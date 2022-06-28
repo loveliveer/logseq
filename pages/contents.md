@@ -111,7 +111,14 @@
 					- <summary>
 					- <sup>
 					- <table>
-					- <tbody><td><textarea>< template><tfoot><th><thead><time><title><tr><track><tt><u><ul><var><video><wbr>
+					- <tbody>
+					- <td>
+					- <textarea>
+					- < template>
+					- <tfoot>
+					- <th>
+					- <thead>
+					- <time><title><tr><track><tt><u><ul><var><video><wbr>
 				- 样式
 				- 选择器
 			- CSS
