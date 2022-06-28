@@ -118,7 +118,15 @@
 					- <tfoot>
 					- <th>
 					- <thead>
-					- <time><title><tr><track><tt><u><ul><var><video><wbr>
+					- <time>
+					- <title>
+					- <tr>
+					- <track>
+					- <tt>
+					- <u>
+					- <ul>
+					- <var>
+					- <video><wbr>
 				- 样式
 				- 选择器
 			- CSS
