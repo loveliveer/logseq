@@ -6,6 +6,5 @@
 - [[spring]]
 - [[springmvc]]
 - [[springboot]]
-- [[Hibernate]]
-- [[ORM]]
+- [[Hibernate ORM]]
 -
