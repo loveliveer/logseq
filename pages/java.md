@@ -9,4 +9,5 @@
 - [[Hibernate ORM]]
 - [[EntityFramework ORM]]
 - [[ssm]]
+- [[mybatis]]
 -
