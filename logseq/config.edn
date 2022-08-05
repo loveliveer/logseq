@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["英语学习" "开发技术" "金融" "计算机学习" "独咒之摄" "数学二考试大纲" "人格personality" "《C语言程序设计》【第五版】谭浩强" "大学计算机" "333教育综合" "英语一作文" "工作台" "学习流程跟踪面板"]
+ :favorites ["人性" "首志恒" "英语学习" "开发技术" "金融" "计算机学习" "独咒之摄" "数学二考试大纲" "人格personality" "《C语言程序设计》【第五版】谭浩强" "大学计算机" "333教育综合" "英语一作文" "工作台" "学习流程跟踪面板"]
  :publishing/all-pages-public? true
  :journal/page-title-format "yyyy_MM_dd"
 
