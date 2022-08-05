@@ -2,6 +2,7 @@
   collapsed:: true
 	- {{embed [[工作台]] }}
 - [[开发技术]]
+  collapsed:: true
 	- [[前端]]
 		- 基础
 			- [[HTML]]
@@ -19,5 +20,8 @@
 		-
 		-
 		-
+- [[英语学习]]
 - 归档
+  collapsed:: true
 	-
+-
