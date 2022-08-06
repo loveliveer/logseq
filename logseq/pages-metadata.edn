@@ -49,39 +49,9 @@
  {:block/name "2021教育心理学333大纲",
   :block/created-at 1644750953660,
   :block/updated-at 1644849055893}
- {:block/name "2022_07_18",
-  :block/created-at 1658074350673,
-  :block/updated-at 1658074350673}
- {:block/name "2022_07_20",
-  :block/created-at 1658572422336,
-  :block/updated-at 1658572422336}
- {:block/name "2022_07_23",
-  :block/created-at 1658572422221,
-  :block/updated-at 1658572446272}
- {:block/name "2022_07_24",
-  :block/created-at 1658626665022,
-  :block/updated-at 1658626665022}
- {:block/name "2022_07_26",
-  :block/created-at 1658799097322,
-  :block/updated-at 1658799097322}
- {:block/name "2022_07_27",
-  :block/created-at 1658930163461,
-  :block/updated-at 1658930163461}
- {:block/name "2022_07_28",
-  :block/created-at 1658985339136,
-  :block/updated-at 1658985339136}
- {:block/name "2022_07_29",
-  :block/created-at 1659057310777,
-  :block/updated-at 1659057310777}
- {:block/name "2022_07_30",
-  :block/created-at 1659160483895,
-  :block/updated-at 1659160483895}
- {:block/name "2022_07_31",
-  :block/created-at 1659196800950,
-  :block/updated-at 1659658148326}
- {:block/name "2022_08_05",
-  :block/created-at 1659658076632,
-  :block/updated-at 1659658076632}
+ {:block/name "2022_08_06",
+  :block/created-at 1659766960336,
+  :block/updated-at 1659766960336}
  {:block/name "3",
   :block/created-at 1659699447104,
   :block/updated-at 1659699447104}
@@ -160,6 +130,9 @@
  {:block/name "asp",
   :block/created-at 1659700813330,
   :block/updated-at 1659700813330}
+ {:block/name "aug 5th, 2022",
+  :block/created-at 1659766941163,
+  :block/updated-at 1659766941163}
  {:block/name "b",
   :block/created-at 1637537519227,
   :block/updated-at 1637537519227}
@@ -410,6 +383,15 @@
  {:block/name "jul 12th, 2022",
   :block/created-at 1658074329328,
   :block/updated-at 1658074329328}
+ {:block/name "jul 20th, 2022",
+  :block/created-at 1659766941300,
+  :block/updated-at 1659766941300}
+ {:block/name "jul 23rd, 2022",
+  :block/created-at 1659766941254,
+  :block/updated-at 1659766941254}
+ {:block/name "jul 31st, 2022",
+  :block/created-at 1659766941206,
+  :block/updated-at 1659766941206}
  {:block/name "jul 3rd, 2022",
   :block/created-at 1658074329543,
   :block/updated-at 1658074329543}
@@ -890,7 +872,7 @@
   :block/updated-at 1659699444179}
  {:block/name "主要问题（27）",
   :block/created-at 1659699445655,
-  :block/updated-at 1659699445655}
+  :block/updated-at 1659781177928}
  {:block/name "义利合一的教育价值观",
   :block/created-at 1645633091168,
   :block/updated-at 1645633091168}
@@ -1860,24 +1842,15 @@
  {:block/name "我的圈子",
   :block/created-at 1659699448257,
   :block/updated-at 1659699448257}
- {:block/name "我的婴儿期",
-  :block/created-at 1659193576976,
-  :block/updated-at 1659193576976}
  {:block/name "我的婴儿期（0-2岁）",
   :block/created-at 1659699449408,
   :block/updated-at 1659699449408}
- {:block/name "我的学龄前期",
-  :block/created-at 1659193587481,
-  :block/updated-at 1659193587481}
  {:block/name "我的学龄前期（3-6岁）",
   :block/created-at 1659699449404,
   :block/updated-at 1659699449404}
  {:block/name "我的学龄期（6-12岁）",
   :block/created-at 1659699449402,
   :block/updated-at 1659699449402}
- {:block/name "我的幼年",
-  :block/created-at 1659193581309,
-  :block/updated-at 1659193581309}
  {:block/name "我的幼年（2-3岁）",
   :block/created-at 1659699449405,
   :block/updated-at 1659699449405}
@@ -2514,9 +2487,6 @@
  {:block/name "物品、行为相关",
   :block/created-at 1659699448202,
   :block/updated-at 1659699448202}
- {:block/name "物质需求相关",
-  :block/created-at 1659194267606,
-  :block/updated-at 1659194267606}
  {:block/name "独咒之摄",
   :block/created-at 1642588812434,
   :block/updated-at 1642596664304}
@@ -2808,6 +2778,9 @@
  {:block/name "自我实现（1层）",
   :block/created-at 1659699448248,
   :block/updated-at 1659699448248}
+ {:block/name "自我意志",
+  :block/created-at 1659781080595,
+  :block/updated-at 1659781080595}
  {:block/name "自由freedom",
   :block/created-at 1637302349684,
   :block/updated-at 1637302349722}
