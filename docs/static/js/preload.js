@@ -83,13 +83,15 @@ contextBridge.exposeInMainWorld('apis', {
    *
    * @param {string} html html file with embedded state
    */
-  exportPublishAssets (html, customCSSPath, repoPath, assetFilenames) {
+  exportPublishAssets (html, customCSSPath, exportCSSPath, repoPath, assetFilenames, outputDir) {
     ipcRenderer.invoke(
       'export-publish-assets',
       html,
       customCSSPath,
+      exportCSSPath,
       repoPath,
-      assetFilenames
+      assetFilenames,
+      outputDir
     )
   },
 
@@ -148,6 +150,16 @@ contextBridge.exposeInMainWorld('apis', {
    */
   async _callApplication (type, ...args) {
     return await ipcRenderer.invoke('call-application', type, ...args)
+  },
+
+  /**
+   * internal
+   * @param type
+   * @param args
+   * @private
+   */
+  async _callMainWin (type, ...args) {
+    return await ipcRenderer.invoke('call-main-win', type, ...args)
   },
 
   getFilePathFromClipboard,

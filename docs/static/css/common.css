@@ -3,13 +3,16 @@
   --ls-tag-text-hover-opacity: 1;
   --ls-page-text-size: 1em;
   --ls-page-title-size: 36px;
-  --ls-font-family: 'Inter';
   --ls-main-content-max-width: 810px;
   --ls-main-content-max-width-wide: 100%;
+  --ls-font-family: Inter;
   --ls-scrollbar-width: 6px;
   --ls-border-radius-low: 4px;
   --ls-border-radius-medium: 8px;
-  --ls-left-sidebar-width: 240px;
+  --ls-headbar-height: 3rem;
+  --ls-headbar-inner-top-padding: 0px;
+  --ls-left-sidebar-width: 246px;
+  --ls-left-sidebar-sm-width: 70%;
   --ls-left-sidebar-nav-btn-size: 38px;
 }
 
@@ -49,6 +52,7 @@ html[data-theme='dark'] {
   );
   --ls-border-color: #0e5263;
   --ls-secondary-border-color: #126277;
+  --ls-tertiary-border-color: rgba(0, 2, 0, 0.10);
   --ls-guideline-color: #0b4a5a;
   --ls-menu-hover-color: var(--ls-secondary-background-color);
   --ls-primary-text-color: #a4b5b6;
@@ -89,21 +93,26 @@ html[data-theme='dark'] {
   --color-level-6: #3a7e8e;
 }
 
+/* You should always use .light-theme for light mode, the .white-theme is just for backword compatibility.
+
+See: https://github.com/logseq/logseq/pull/4652. */
 .white-theme,
+.light-theme,
 html[data-theme='light'] {
   --ls-primary-background-color: #ffffff;
   --ls-secondary-background-color: #f7f7f7;
-  --ls-tertiary-background-color: #f1eee8;
-  --ls-quaternary-background-color: #e8e5de;
+  --ls-tertiary-background-color: #eaeaea;
+  --ls-quaternary-background-color: #dcdcdc;
   --ls-table-tr-even-background-color: #f7f7f7;
-  --ls-active-primary-color: rgb(4, 85, 145);
-  --ls-active-secondary-color: #003761;
+  --ls-active-primary-color: rgb(0, 105, 182);
+  --ls-active-secondary-color: #00477c;
   --ls-block-properties-background-color: #f7f7f7;
   --ls-page-properties-background-color: #f7f7f7;
   --ls-block-ref-link-text-color: #d8e1e8;
   --ls-search-background-color: var(--ls-primary-background-color);
   --ls-border-color: #ccc;
   --ls-secondary-border-color: #e2e2e2;
+  --ls-tertiary-border-color: rgba(200, 200, 200, 0.30);
   --ls-guideline-color: rgba(46, 27, 5, 0.08);
   --ls-menu-hover-color: var(--ls-a-chosen-bg);
   --ls-primary-text-color: #433f38;
@@ -143,13 +152,15 @@ html[data-theme='light'] {
   --color-level-5: #bbdaf6;
 }
 
+html:not(.is-native-android) {
+  font-family: var(--ls-font-family), sans-serif, system-ui,
+  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+  Arial, 'Noto Sans', serif, Apple Color Emoji, Segoe UI Emoji,
+  Segoe UI Symbol !important;
+}
+
 /* region Reset top elements */
 html {
-  font-family: var(--ls-font-family), Inter, sans-serif, system-ui,
-    -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
-    Arial, 'Noto Sans', serif, Apple Color Emoji, Segoe UI Emoji,
-    Segoe UI Symbol !important;
-
   /* FIXME: rewrite revealjs.css ? */
   height: unset !important;
   overflow: auto !important;
@@ -242,9 +253,6 @@ pre.code {
   color: var(--ls-primary-text-color, #f8f8f2);
 }
 
-:not(pre) > code {
-}
-
 dl {
   margin: 1rem 0;
 }
@@ -294,19 +302,6 @@ video {
 ::-moz-selection {
   background: var(--ls-selection-background-color);
   color: var(--ls-primary-text-color);
-}
-
-:not(pre) > code {
-  font-style: normal !important;
-  letter-spacing: 0;
-  padding: 0.1em 0.4em;
-  word-spacing: -0.15em;
-  -webkit-border-radius: var(--ls-border-radius-low);
-  border-radius: var(--ls-border-radius-low);
-  color: var(--ls-page-inline-code-color);
-  background-color: var(--ls-page-inline-code-bg-color, #eee);
-  line-height: 1.45;
-  text-rendering: optimizeSpeed;
 }
 
 /* endregion */
@@ -679,10 +674,6 @@ video {
 /** endregion **/
 
 /** region App utilities **/
-.page {
-  margin-top: 24px;
-}
-
 .ls-center {
   position: absolute;
   top: 50%;
@@ -707,6 +698,11 @@ li p:last-child,
 .bg-base-3 {
   background-color: var(--ls-primary-background-color, #fff);
 }
+
+.bg-base-4 {
+  background-color: var(--ls-tertiary-background-color);
+}
+
 
 .pre-white-space {
   white-space: pre;
@@ -736,6 +732,7 @@ li p:last-child,
 }
 
 .canceled,
+.cancelled,
 .done {
   text-decoration: line-through;
   opacity: 0.6;
@@ -775,7 +772,8 @@ li p:last-child,
 }
 
 .done,
-.canceled {
+.canceled,
+.cancelled {
   opacity: 0.7;
 }
 
@@ -792,6 +790,14 @@ li p:last-child,
 .admonition-icon {
   border-right: 1px solid;
   border-right-color: var(--ls-border-color, #ccc);
+}
+
+i.ti {
+  /*
+  compensates the wrong top spacing in the iconfont.
+  See https://github.com/tabler/tabler-icons/issues/118/
+  */
+  transform: translateY(-1px);
 }
 
 .dnd-separator {
@@ -850,35 +856,13 @@ h1.title {
   font-weight: 600;
 }
 
-.title .page-emoji {
+.title .page-icon {
   margin-right: 12px;
-}
-
-.left-sidebar-inner .recent .page-emoji,
-.left-sidebar-inner .favorites .page-emoji {
-  margin-right: 8px;
-  width: 1.1em;
-  text-align: center;
-  display: inline-block;
-  color: #aaa;
-}
-
-.favorites li.favorite-item,
-.recent    li.recent-item {
-  margin: 0.1rem 0;
-}
-
-.left-sidebar-inner > .wrap {
-  height: 100%;
-}
-
-.left-sidebar-inner .flex-column-spacer {
-  flex: 1 1 0%;
 }
 
 .block-highlight,
 .content .selected {
-  transition: background-color 0.15s;
+  transition: background-color 0.2s cubic-bezier(0, 1, 0, 1);
   background-color: var(--ls-block-highlight-color);
   padding: -1px;
 }
@@ -919,6 +903,7 @@ button.menu:focus {
 .menu-link {
   background-color: var(--ls-primary-background-color, #fff);
   color: var(--ls-primary-text-color);
+  user-select: none;
 }
 
 .menu-link:first-of-type {
@@ -1087,11 +1072,6 @@ mark {
 }
 
 /* block references */
-
-.block-ref {
-  display: inline;
-}
-
 .block-ref .block-ref {
   padding: 6px 5px;
   border: none;
@@ -1101,9 +1081,36 @@ mark {
 :not(pre) > code {
   border-radius: 3px;
   font-size: 0.9em;
+  font-style: normal;
   font-family: MonoLisa, 'Fira Code', Monaco, Menlo, Consolas, 'COURIER NEW',
     monospace;
+  letter-spacing: 0;
+  background-color: var(--ls-page-inline-code-bg-color, #eee);
+  color: var(--ls-page-inline-code-color);
+  word-spacing: -0.15em;
+  text-rendering: optimizeSpeed;
+}
+
+:not(pre):not(mark) > code {
+  line-height: 1.45;
   padding: 3px 5px !important;
+  border-radius: var(--ls-border-radius-low);
+  -webkit-border-radius: var(--ls-border-radius-low);
+}
+
+mark > code {
+  padding: 0;
+  line-height: inherit !important;
+  background: #fef3ac !important;
+  color: #262626 !important;
+}
+
+b > code {
+  font-weight: bold !important;
+}
+
+i > code {
+  font-style: italic !important;
 }
 
 a {
@@ -1178,4 +1185,19 @@ html[data-theme='dark'] .keyboard-shortcut > code {
 
 .overflow-y-scroll {
     overflow-y: scroll;
+}
+
+.text-ellipsis-wrapper {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.lazy-visibility {
+    min-width: 1px;
+    min-height: 1px;
+}
+
+.katex .tag {
+    overflow-x: clip;
 }
